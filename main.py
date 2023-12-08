@@ -34,7 +34,6 @@ def parsing():
 
 
 def return_data():
-
     with open("result.json", "r", encoding='utf-8') as file:
         json_return_data = json.load(file)
 
@@ -56,6 +55,6 @@ def return_data():
 
 
 if __name__ == "__main__":
-    parsing()
+    # parsing()
     # input("Нажмите на любую клавишу для продолжения!")
-    # return_data()
+    return_data()
