@@ -1,0 +1,5445 @@
+{
+    "TunaCan": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Crackers": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SodaCan_Pipsi": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SodaCan_Cola": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SodaCan_Spite": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SodaCan_Fronta": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "350",
+            "SellingPrice": "-1"
+        }
+    ],
+    "PeachesCan": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Пища Рабовладелец",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Хавка Повстанец",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "750",
+            "SellingPrice": "-1"
+        }
+    ],
+    "BakedBeansCan": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Пища Рабовладелец",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Хавка Повстанец",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "1000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SpaghettiCan": [
+        {
+            "CategoryName": "Еда Полиция",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Пища Рабовладелец",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Хавка Повстанец",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        }
+    ],
+    "BandageDressing": [
+        {
+            "CategoryName": "Медицина Полиция",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Фермер",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Егерь",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "CharcoalTablets": [
+        {
+            "CategoryName": "Медицина Полиция",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Фермер",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Егерь",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "DisinfectantAlcohol": [
+        {
+            "CategoryName": "Медицина Полиция",
+            "PurchasePrice": "2250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "2250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "2250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "VitaminBottle": [
+        {
+            "CategoryName": "Медицина Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Фермер",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Егерь",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "TetracyclineAntibiotics": [
+        {
+            "CategoryName": "Медицина Полиция",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Фермер",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Егерь",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "2760",
+            "SellingPrice": "-1"
+        }
+    ],
+    "PainkillerTablets": [
+        {
+            "CategoryName": "Медицина Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Heatpack": [
+        {
+            "CategoryName": "Медицина Полиция",
+            "PurchasePrice": "600",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "600",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "600",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "600",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Taser": [
+        {
+            "CategoryName": "Спец. средства Полиция",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "policebaton": [
+        {
+            "CategoryName": "Спец. средства Полиция",
+            "PurchasePrice": "2000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "handcuffs": [
+        {
+            "CategoryName": "Спец. средства Полиция",
+            "PurchasePrice": "600",
+            "SellingPrice": "-1"
+        }
+    ],
+    "handcuffkeys": [
+        {
+            "CategoryName": "Спец. средства Полиция",
+            "PurchasePrice": "50",
+            "SellingPrice": "-1"
+        }
+    ],
+    "FlashGrenade": [
+        {
+            "CategoryName": "Спец. средства Полиция",
+            "PurchasePrice": "7250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "StunBaton": [
+        {
+            "CategoryName": "Спец. средства Полиция",
+            "PurchasePrice": "2000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MP5K": [
+        {
+            "CategoryName": "Огнестрельное оружие Полиция",
+            "PurchasePrice": "55000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "AKS74U": [
+        {
+            "CategoryName": "Огнестрельное оружие Полиция",
+            "PurchasePrice": "57600",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Оружие Егерь",
+            "PurchasePrice": "57600",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_AACHoneyBadger_Black": [
+        {
+            "CategoryName": "Огнестрельное оружие Полиция",
+            "PurchasePrice": "100000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MP133Shotgun": [
+        {
+            "CategoryName": "Огнестрельное оружие Полиция",
+            "PurchasePrice": "25000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "PP19": [
+        {
+            "CategoryName": "Огнестрельное оружие Полиция",
+            "PurchasePrice": "47500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "FNX45": [
+        {
+            "CategoryName": "Огнестрельное оружие Полиция",
+            "PurchasePrice": "60000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Glock19": [
+        {
+            "CategoryName": "Огнестрельное оружие Полиция",
+            "PurchasePrice": "12500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Самооборона",
+            "PurchasePrice": "12500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MP5_Compensator": [
+        {
+            "CategoryName": "Обвес на оружие Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MP5k_StockBttstck": [
+        {
+            "CategoryName": "Обвес на оружие Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MP5_PlasticHndgrd": [
+        {
+            "CategoryName": "Обвес на оружие Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MP5_RailHndgrd": [
+        {
+            "CategoryName": "Обвес на оружие Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "AKS74U_Bttstck": [
+        {
+            "CategoryName": "Обвес на оружие Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "M4_MPBttstck": [
+        {
+            "CategoryName": "Обвес на оружие Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "PP19_Bttstck": [
+        {
+            "CategoryName": "Обвес на оружие Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Ammo_9x19": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Ammo_545x39": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Егерь",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Ammo_556x45": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "2750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "2750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "2750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "2750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "2750",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "2750",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Ammo_12gaPellets": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Фермер",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Егерь",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Ammo_380": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Ammo_45ACP": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_taser": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_PP19_64Rnd": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "2000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_FNX45_15Rnd": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "2000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_Glock_15Rnd": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "2000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и магазины для пистолета",
+            "PurchasePrice": "2000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Mag_Glock_21Rnd": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "2600",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_MP5_30Rnd": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "2600",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_AK74_30Rnd_Black": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Егерь",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины Повстанца",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_STANAG_30Rnd": [
+        {
+            "CategoryName": "Патроны и Магазины Полиция",
+            "PurchasePrice": "6000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "6000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "6000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "6000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Head_Cap_Police": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Head_OfficerCap": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police_serj": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police_mlleit": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police_leit": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police_stleit": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police_Capt": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police_Mayor": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police_Podpol": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Police_Polkov": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Pants_Police": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Vest_SWAT_Police": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "25000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_BeltSystem_Small_Black": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "10000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MilitaryBoots_Black": [
+        {
+            "CategoryName": "Экипировка Полиция",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Одежда Военные",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Battery9V": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SewingKit": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "LeatherSewingKit": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Megaphone": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Matchbox": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Whetstone": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "CanOpener": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "WeaponCleaningKit": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "PersonalRadio": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "LargeGasCanister": [
+        {
+            "CategoryName": "Расходники Полиция",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Необходимое Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Canteen": [
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "1050",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "1050",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "1050",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "1050",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "1050",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "1050",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "1050",
+            "SellingPrice": "-1"
+        }
+    ],
+    "WaterBottle": [
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Rice": [
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "425",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Пища Рабовладелец",
+            "PurchasePrice": "425",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "425",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "425",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "425",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Pate": [
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Фермер",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Егерь",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда Повстанца",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "350",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "350",
+            "SellingPrice": "50"
+        }
+    ],
+    "TacticalBaconCan": [
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "PorkCan": [
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Lunchmeat": [
+        {
+            "CategoryName": "Сухпай Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Epinephrine": [
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "3500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "3500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "3500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "3500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Morphine": [
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Егерь",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        }
+    ],
+    "PainKillerTablets": [
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Фермер",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Егерь",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        }
+    ],
+    "PurificationTablets": [
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Фермер",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Егерь",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "2475",
+            "SellingPrice": "-1"
+        }
+    ],
+    "BloodBagEmpty": [
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "4000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "4000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "4000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "4000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "4000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "4000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "BloodTestKit": [
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "900",
+            "SellingPrice": "-1"
+        }
+    ],
+    "StartKitIV": [
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "825",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "825",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "825",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "825",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "825",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "825",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SalineBagIV": [
+        {
+            "CategoryName": "Первая помощь Военные",
+            "PurchasePrice": "575",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Аптека Рабовладелец",
+            "PurchasePrice": "575",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Лекарства Повстанец",
+            "PurchasePrice": "575",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "575",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "575",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "575",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SVD": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "230000",
+            "SellingPrice": "5000"
+        }
+    ],
+    "IMP_VSS_Tact": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "120000",
+            "SellingPrice": "5000"
+        }
+    ],
+    "IMP_RPK16_Black": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "120000",
+            "SellingPrice": "5000"
+        }
+    ],
+    "IMP_AACHoneyBadger_black": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "110000",
+            "SellingPrice": "5000"
+        }
+    ],
+    "IMP_DDMV4": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "80000",
+            "SellingPrice": "11000"
+        },
+        {
+            "CategoryName": "Оружие Повстанец",
+            "PurchasePrice": "80000",
+            "SellingPrice": "11000"
+        },
+        {
+            "CategoryName": "Пушки Повстанец",
+            "PurchasePrice": "80000",
+            "SellingPrice": "11000"
+        }
+    ],
+    "IMP_HK416": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "112000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Оружие Повстанец",
+            "PurchasePrice": "112000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Пушки Повстанец",
+            "PurchasePrice": "112000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Komrad12": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "45000",
+            "SellingPrice": "2000"
+        }
+    ],
+    "IMP_M24_SWS": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "200000",
+            "SellingPrice": "15000"
+        },
+        {
+            "CategoryName": "Оружие Повстанец",
+            "PurchasePrice": "200000",
+            "SellingPrice": "15000"
+        },
+        {
+            "CategoryName": "Пушки Повстанец",
+            "PurchasePrice": "200000",
+            "SellingPrice": "15000"
+        }
+    ],
+    "IMP_AKAlfa": [
+        {
+            "CategoryName": "Оружие Военные",
+            "PurchasePrice": "110000",
+            "SellingPrice": "15000"
+        }
+    ],
+    "IMP_Optic_NCStar": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "40000",
+            "SellingPrice": "5500"
+        }
+    ],
+    "IMP_PistolGrip_AK_CustomArms": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Bttstk_RPK16_Black": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Suppressor_AK_SpectehnikaTGPA": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "55000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_VerticalGrip_Black": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Bttstk_M4_Fortis": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "HuntingOptic": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "20000",
+            "SellingPrice": "5500"
+        },
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "20000",
+            "SellingPrice": "5500"
+        },
+        {
+            "CategoryName": "Обвесы на оружие Фермер",
+            "PurchasePrice": "20000",
+            "SellingPrice": "5500"
+        },
+        {
+            "CategoryName": "Обвесы на оружие Егерь",
+            "PurchasePrice": "20000",
+            "SellingPrice": "5500"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "20000",
+            "SellingPrice": "5500"
+        },
+        {
+            "CategoryName": "Обвес на оружие Повстанец",
+            "PurchasePrice": "20000",
+            "SellingPrice": "5500"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "20000",
+            "SellingPrice": "5500"
+        }
+    ],
+    "ACOGOptic_6x": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "1000"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "15000",
+            "SellingPrice": "1000"
+        },
+        {
+            "CategoryName": "Обвес на оружие Повстанец",
+            "PurchasePrice": "15000",
+            "SellingPrice": "1000"
+        }
+    ],
+    "IMP_Optic_HAMR": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "1000"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "15000",
+            "SellingPrice": "1000"
+        },
+        {
+            "CategoryName": "Обвес на оружие Повстанец",
+            "PurchasePrice": "15000",
+            "SellingPrice": "1000"
+        }
+    ],
+    "ReflexOptic": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "7500",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "7500",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "7500",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Обвес на оружие Повстанец",
+            "PurchasePrice": "7500",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "7500",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Optic_OKP7": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "3500",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "3500",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "3500",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "3500",
+            "SellingPrice": "500"
+        }
+    ],
+    "IMP_Grip_FortisShift": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Обвес на оружие Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "M4_MPBttstck_Black": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Обвес на оружие Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "AK74_Hndgrd": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Обвес на оружие Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "AK_PlasticBttstck": [
+        {
+            "CategoryName": "Обвесы Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Модули на оружие Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Обвес на оружие Повстанец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Mag_RPK16_Drum_90Rnd": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "10000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MWP_M82_ammo": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MWP_Mag_KALAMIT_10Rnd": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "12500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Ammo_762x39": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Фермер",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_STANAG_60Rnd": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "5500",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "5500",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "5500",
+            "SellingPrice": "500"
+        }
+    ],
+    "IMP_Mag_VSS_CoupledClip_20Rnd": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "3400",
+            "SellingPrice": "800"
+        }
+    ],
+    "IMP_Mag_Komrad12_Clip_20Rnd": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "3450",
+            "SellingPrice": "950"
+        }
+    ],
+    "IMP_Mag_M24_5Rnd": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "2500",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "100"
+        }
+    ],
+    "Ammo_308Win": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "3300",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Егерь",
+            "PurchasePrice": "3300",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "3300",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "3300",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Ammo_9x39": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "850",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "850",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "850",
+            "SellingPrice": "-1"
+        }
+    ],
+    "Mag_AK5C_30Rnd": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Mag_AKAlfa_30Rnd": [
+        {
+            "CategoryName": "Магазины с патронами Военные",
+            "PurchasePrice": "5000",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Shirt_Tact_Voen": [
+        {
+            "CategoryName": "Одежда Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_PantsTac_Voen": [
+        {
+            "CategoryName": "Одежда Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Boots_Lowa_Tan": [
+        {
+            "CategoryName": "Одежда Военные",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "MG_Helm_RatnikCo_Voen": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "5500",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Vest_6b45_Voen": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "55500",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Pouch_EM_Multicam": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "550",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Pouch_PlateCarrierHolster_Multicam": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "25000",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Pouch_IFAK_Multicam": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "65000",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Pouch_MagPouch1_Multicam": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "8000",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Pouch_MagPouch2_Multicam": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Pouch_MagPouch3_Multicam": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "MG_Pouch_MapPouch_Multicam": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "MG_Pouch_LockPick_Multicam": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "IMP_Bag_BigMilitaryBag_Green": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "5000",
+            "SellingPrice": "1000"
+        }
+    ],
+    "IMP_Bag_BlackJack": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "6000",
+            "SellingPrice": "1000"
+        }
+    ],
+    "IMP_Bag_DrawBridge": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "10000",
+            "SellingPrice": "1000"
+        }
+    ],
+    "IMP_Bag_CompactBag_Tan": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "12000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_RifleSling_Front_Green": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Gloves_Mechanix_UltraBlack": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Gloves_Mechanix_Tan": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "TacticalGloves_Black": [
+        {
+            "CategoryName": "Экипировка Военные",
+            "PurchasePrice": "1500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "NBCPantsGray": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        }
+    ],
+    "NBCBootsGray": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        }
+    ],
+    "NBCHoodGray": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        }
+    ],
+    "NBCJacketGray": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        }
+    ],
+    "GP5GasMask": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Специальная экипировка МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "AirborneMask": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Специальная экипировка МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "GasMask_Filter": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Специальная экипировка МЧС",
+            "PurchasePrice": "450",
+            "SellingPrice": "220"
+        }
+    ],
+    "NVGoggles": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        }
+    ],
+    "NVGHeadstrap": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        }
+    ],
+    "IMP_NVG_GPNVG_18_Black": [
+        {
+            "CategoryName": "Спец снаряжение Военные",
+            "PurchasePrice": "15000",
+            "SellingPrice": "500"
+        }
+    ],
+    "MG_IRP1": [
+        {
+            "CategoryName": "Пища Рабовладелец",
+            "PurchasePrice": "1250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SardinesCan": [
+        {
+            "CategoryName": "Пища Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Хавка Повстанец",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Vector": [
+        {
+            "CategoryName": "Стволы Рабовладелец",
+            "PurchasePrice": "40000",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Оружие Повстанца",
+            "PurchasePrice": "40000",
+            "SellingPrice": "100"
+        }
+    ],
+    "IMP_AEK": [
+        {
+            "CategoryName": "Стволы Рабовладелец",
+            "PurchasePrice": "40000",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Оружие Повстанец",
+            "PurchasePrice": "40000",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Пушки Повстанец",
+            "PurchasePrice": "40000",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Оружие Повстанца",
+            "PurchasePrice": "40000",
+            "SellingPrice": "100"
+        }
+    ],
+    "AK74": [
+        {
+            "CategoryName": "Стволы Рабовладелец",
+            "PurchasePrice": "55700",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Оружие Повстанец",
+            "PurchasePrice": "55700",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Пушки Повстанец",
+            "PurchasePrice": "55700",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Оружие Повстанца",
+            "PurchasePrice": "55700",
+            "SellingPrice": "100"
+        }
+    ],
+    "AKM": [
+        {
+            "CategoryName": "Стволы Рабовладелец",
+            "PurchasePrice": "100000",
+            "SellingPrice": "5000"
+        },
+        {
+            "CategoryName": "Оружие Фермер",
+            "PurchasePrice": "100000",
+            "SellingPrice": "5000"
+        },
+        {
+            "CategoryName": "Оружие Повстанца",
+            "PurchasePrice": "100000",
+            "SellingPrice": "5000"
+        }
+    ],
+    "IMP_VR80": [
+        {
+            "CategoryName": "Стволы Рабовладелец",
+            "PurchasePrice": "35000",
+            "SellingPrice": "3100"
+        },
+        {
+            "CategoryName": "Оружие Повстанца",
+            "PurchasePrice": "35000",
+            "SellingPrice": "3100"
+        }
+    ],
+    "IMP_Supp_Vector_Black": [
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "30000",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "30000",
+            "SellingPrice": "500"
+        }
+    ],
+    "IMP_RailAK": [
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Bttstk_AK_Magpul": [
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Hndgrd_AK_Polymer_Black": [
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "2500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "UniversalLight": [
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "300",
+            "SellingPrice": "30"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "300",
+            "SellingPrice": "30"
+        }
+    ],
+    "PUScopeOptic": [
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "8000",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Обвесы на оружие Фермер",
+            "PurchasePrice": "8000",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Обвесы на оружие Егерь",
+            "PurchasePrice": "8000",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "8000",
+            "SellingPrice": "150"
+        }
+    ],
+    "PSO1Optic": [
+        {
+            "CategoryName": "Модули Рабовладелец",
+            "PurchasePrice": "8000",
+            "SellingPrice": "300"
+        },
+        {
+            "CategoryName": "Обвесы повстанца",
+            "PurchasePrice": "8000",
+            "SellingPrice": "300"
+        }
+    ],
+    "IMP_Mag_Vector_35Rnd": [
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "1800",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Магазины Повстанца",
+            "PurchasePrice": "1800",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "1800",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Mag_VR80_5Rnd": [
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "2300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Магазины Повстанца",
+            "PurchasePrice": "2300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "2300",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Mag_VR80_Clip_20Rnd": [
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "5300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Магазины Повстанца",
+            "PurchasePrice": "5300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "5300",
+            "SellingPrice": "50"
+        }
+    ],
+    "Mag_AKM_30Rnd": [
+        {
+            "CategoryName": "Магазины/патроны Рабовладелец",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Магазины и патроны Фермер",
+            "PurchasePrice": "2550",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Магазины Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Патроны Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "Armband_Zagorky": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Bag_BigMilitaryBag_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "18000",
+            "SellingPrice": "1000"
+        }
+    ],
+    "IMP_Helmet_K63_Raised_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "25000",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Vest_6B45_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "55000",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Boots_Lowa_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "50"
+        }
+    ],
+    "WoolGloves_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "50"
+        }
+    ],
+    "KOD_stalker4_Balaclava3Holes": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Pouch_IFAK_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "IMP_Pouch_MagPouch2_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "IMP_Pouch_EM_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "IMP_Pouch_NBCBag_UCP": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Pouch_Tactical_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "2500",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Bag_CompactBag2_Black": [
+        {
+            "CategoryName": "Вещи Рабовладелец",
+            "PurchasePrice": "8000",
+            "SellingPrice": "50"
+        }
+    ],
+    "Saiga": [
+        {
+            "CategoryName": "Оружие Фермер",
+            "PurchasePrice": "35500",
+            "SellingPrice": "9200"
+        },
+        {
+            "CategoryName": "Оружие Егерь",
+            "PurchasePrice": "35500",
+            "SellingPrice": "9200"
+        }
+    ],
+    "Mosin9130": [
+        {
+            "CategoryName": "Оружие Фермер",
+            "PurchasePrice": "42000",
+            "SellingPrice": "12000"
+        }
+    ],
+    "CZ527": [
+        {
+            "CategoryName": "Оружие Фермер",
+            "PurchasePrice": "37000",
+            "SellingPrice": "12000"
+        }
+    ],
+    "AmmoBox_762x54_20Rnd": [
+        {
+            "CategoryName": "Магазины и патроны Фермер",
+            "PurchasePrice": "5400",
+            "SellingPrice": "200"
+        }
+    ],
+    "Ammo_762x54": [
+        {
+            "CategoryName": "Магазины и патроны Фермер",
+            "PurchasePrice": "5400",
+            "SellingPrice": "200"
+        },
+        {
+            "CategoryName": "Патроны и Магазины Егерь",
+            "PurchasePrice": "5400",
+            "SellingPrice": "200"
+        }
+    ],
+    "CZ527_5Rnd": [
+        {
+            "CategoryName": "Магазины и патроны Фермер",
+            "PurchasePrice": "2550",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_UNLVest_UnloadingVest_EMR": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "800",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "800",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Helmet_Mich2002": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "8000",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "8000",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Vest_JPC_Green": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "15000",
+            "SellingPrice": "15000"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "15000",
+            "SellingPrice": "15000"
+        }
+    ],
+    "IMP_Sling_Back": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "500",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "500",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Pouch_IFAK_Green": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "250",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "250",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Pouch_MagPouch2_Green": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "250",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "250",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Pouch_EM_Green": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "250",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "250",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Bag_Gunslinger": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "8000",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "8000",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Bag_VKBO": [
+        {
+            "CategoryName": "Снаряжение Фермер",
+            "PurchasePrice": "8000",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "8000",
+            "SellingPrice": "50"
+        }
+    ],
+    "Mosim9130": [
+        {
+            "CategoryName": "Оружие Егерь",
+            "PurchasePrice": "65000",
+            "SellingPrice": "15000"
+        }
+    ],
+    "B95": [
+        {
+            "CategoryName": "Оружие Егерь",
+            "PurchasePrice": "50250",
+            "SellingPrice": "11000"
+        }
+    ],
+    "Mag_Saiga_5Rnd": [
+        {
+            "CategoryName": "Патроны и Магазины Егерь",
+            "PurchasePrice": "3300",
+            "SellingPrice": "30"
+        }
+    ],
+    "IMP_Helmet_Mich_Black": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "15000",
+            "SellingPrice": "800"
+        }
+    ],
+    "IMP_Helmet_Tactic_Raised_Black": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "10000",
+            "SellingPrice": "800"
+        }
+    ],
+    "IMP_Vest_JPC_Black": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "15000",
+            "SellingPrice": "800"
+        }
+    ],
+    "HunterPants_Autum": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "15000",
+            "SellingPrice": "800"
+        }
+    ],
+    "HuntingJacket_Autum": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "15000",
+            "SellingPrice": "800"
+        }
+    ],
+    "CombatBoots_Black": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "15000",
+            "SellingPrice": "800"
+        }
+    ],
+    "HuntingVest": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "15000",
+            "SellingPrice": "800"
+        }
+    ],
+    "IMP_Bag_MilitaryBag_Black": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "10000",
+            "SellingPrice": "80"
+        }
+    ],
+    "IMP_Bag_SportBag": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "5000",
+            "SellingPrice": "80"
+        }
+    ],
+    "Balaclava3Holes_Black": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "IMP_Mask_FaceMask_Skull": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "FlatCap_Brown": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        },
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "FlatCap_Black": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        },
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "FlatCap_Red": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        },
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "FlatCap_BrownCheck": [
+        {
+            "CategoryName": "Одежда Егерь",
+            "PurchasePrice": "500",
+            "SellingPrice": "80"
+        }
+    ],
+    "NZRP_Radiation_Vodka": [
+        {
+            "CategoryName": "Хавка Повстанец",
+            "PurchasePrice": "500",
+            "SellingPrice": "-1"
+        }
+    ],
+    "KOD_Bandit_Canteen": [
+        {
+            "CategoryName": "Хавка Повстанец",
+            "PurchasePrice": "550",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Bottle_BottlePouch_Black": [
+        {
+            "CategoryName": "Хавка Повстанец",
+            "PurchasePrice": "550",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_AR15Skeleton": [
+        {
+            "CategoryName": "Оружие Повстанец",
+            "PurchasePrice": "135000",
+            "SellingPrice": "15000"
+        },
+        {
+            "CategoryName": "Пушки Повстанец",
+            "PurchasePrice": "135000",
+            "SellingPrice": "15000"
+        }
+    ],
+    "IMP_AACHoneyBadger_Green": [
+        {
+            "CategoryName": "Оружие Повстанец",
+            "PurchasePrice": "90000",
+            "SellingPrice": "5000"
+        },
+        {
+            "CategoryName": "Пушки Повстанец",
+            "PurchasePrice": "90000",
+            "SellingPrice": "5000"
+        }
+    ],
+    "Mag_AKM_Drum75Rnd_Black": [
+        {
+            "CategoryName": "Патроны и Магазины Повстанцы",
+            "PurchasePrice": "6000",
+            "SellingPrice": "500"
+        },
+        {
+            "CategoryName": "Магазины и патроны Повстанцы",
+            "PurchasePrice": "6000",
+            "SellingPrice": "500"
+        }
+    ],
+    "IMP_Gloves_SWAT_Gloves_Black": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Gloves_SWAT_Gloves_UCP": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Gloves_SWAT_Gloves_MARPAT": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Mask_Poncho_Black": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "2600",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Mask_Poncho_Brown": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "2600",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Jacket_Gorka_Black": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Jacket_Gorka_Tan": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Jacket_Gorka_Forest": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Pants_Tactical_Black": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Pants_Tactical_Green": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Pants_Tactical_Tan": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "1000",
+            "SellingPrice": "150"
+        }
+    ],
+    "IMP_Vest_AACVest_Black": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "26000",
+            "SellingPrice": "4000"
+        }
+    ],
+    "IMP_Vest_AACVest_Green": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "26000",
+            "SellingPrice": "4000"
+        }
+    ],
+    "IMP_Vest_AACVest_Tan": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "26000",
+            "SellingPrice": "4000"
+        }
+    ],
+    "IMP_Vest_TacTec_Black": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "23000",
+            "SellingPrice": "4000"
+        }
+    ],
+    "IMP_Vest_TacTec_Green": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "23000",
+            "SellingPrice": "4000"
+        }
+    ],
+    "IMP_Vest_TacTec_Tan": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "23000",
+            "SellingPrice": "4000"
+        }
+    ],
+    "JungleBoots_Black": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "850",
+            "SellingPrice": "150"
+        }
+    ],
+    "HikingBoots_Brown": [
+        {
+            "CategoryName": "Экипа Повстанца",
+            "PurchasePrice": "700",
+            "SellingPrice": "150"
+        },
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "SalineBag": [
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "450",
+            "SellingPrice": "220"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IodineTincture": [
+        {
+            "CategoryName": "Медицина Повстанец",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "275",
+            "SellingPrice": "98"
+        },
+        {
+            "CategoryName": "Мед. комплекты Повстанец",
+            "PurchasePrice": "250",
+            "SellingPrice": "-1"
+        }
+    ],
+    "IMP_Helmet_Altyn_EMR": [
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "12000",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Vest_RedutT5_Camo": [
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "65000",
+            "SellingPrice": "15000"
+        }
+    ],
+    "IMP_Belt_BeltSystem_Large_60_Black": [
+        {
+            "CategoryName": "Одежда Повстанцы",
+            "PurchasePrice": "6000",
+            "SellingPrice": "50"
+        }
+    ],
+    "Apple": [
+        {
+            "CategoryName": "Овощи и фрукты",
+            "PurchasePrice": "50",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "50",
+            "SellingPrice": "-1"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "50",
+            "SellingPrice": "-1"
+        }
+    ],
+    "SlicedPumpkin": [
+        {
+            "CategoryName": "Овощи и фрукты",
+            "PurchasePrice": "250",
+            "SellingPrice": "40"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "250",
+            "SellingPrice": "40"
+        }
+    ],
+    "Plum": [
+        {
+            "CategoryName": "Овощи и фрукты",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "270",
+            "SellingPrice": "90"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        }
+    ],
+    "Pear": [
+        {
+            "CategoryName": "Овощи и фрукты",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "750",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        }
+    ],
+    "DogFoodCan": [
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "260",
+            "SellingPrice": "95"
+        }
+    ],
+    "CatFoodCan": [
+        {
+            "CategoryName": "Консервы",
+            "PurchasePrice": "270",
+            "SellingPrice": "90"
+        }
+    ],
+    "SodaCan_Kvass": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "100",
+            "SellingPrice": "50"
+        }
+    ],
+    "Vodka": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "450",
+            "SellingPrice": "220"
+        }
+    ],
+    "BoxCerealCrunchin": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "265",
+            "SellingPrice": "75"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "265",
+            "SellingPrice": "75"
+        }
+    ],
+    "PowderedMilk": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "180",
+            "SellingPrice": "60"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "180",
+            "SellingPrice": "60"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "180",
+            "SellingPrice": "60"
+        }
+    ],
+    "Marmalade": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "440",
+            "SellingPrice": "170"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "440",
+            "SellingPrice": "170"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "440",
+            "SellingPrice": "170"
+        }
+    ],
+    "Honey": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "750",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "750",
+            "SellingPrice": "350"
+        }
+    ],
+    "UnknownFoodCan": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "100",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "100",
+            "SellingPrice": "50"
+        }
+    ],
+    "Pajka": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "350",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "350",
+            "SellingPrice": "50"
+        }
+    ],
+    "BrisketSpread": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "380",
+            "SellingPrice": "60"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "380",
+            "SellingPrice": "60"
+        }
+    ],
+    "Chips": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "125",
+            "SellingPrice": "50"
+        }
+    ],
+    "SaltySticks": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "110",
+            "SellingPrice": "35"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "110",
+            "SellingPrice": "35"
+        }
+    ],
+    "ZagorkyPeanuts": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "175",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "50"
+        }
+    ],
+    "ZagorkyChocolate": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "165",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Zagorky": [
+        {
+            "CategoryName": "Разная еда",
+            "PurchasePrice": "150",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "450",
+            "SellingPrice": "220"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "150",
+            "SellingPrice": "50"
+        }
+    ],
+    "BaseballCap_Blue": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BaseballCap_Beige": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BaseballCap_Black": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BaseballCap_Olive": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BaseballCap_Pink": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BaseballCap_Red": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BaseballCap_Camo": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BaseballCap_CMMG_Black": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BaseballCap_CMMG_Pink": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "BeanieHat_Brown": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "3100",
+            "SellingPrice": "400"
+        }
+    ],
+    "BeanieHat_Blue_Pink": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "3100",
+            "SellingPrice": "400"
+        }
+    ],
+    "BeanieHat_Black": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "3100",
+            "SellingPrice": "400"
+        }
+    ],
+    "BeanieHat_Beige": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "3100",
+            "SellingPrice": "400"
+        }
+    ],
+    "Ushanka_Black": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "4100",
+            "SellingPrice": "500"
+        }
+    ],
+    "FlatCap_Blue": [
+        {
+            "CategoryName": "Головные уборы",
+            "PurchasePrice": "2500",
+            "SellingPrice": "300"
+        }
+    ],
+    "TShirt_Beige": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TShirt_Black": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TShirt_Blue": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TShirt_Green": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TShirt_OrangeWhiteStripes": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TShirt_Red": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TShirt_RedBlackStripes": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TShirt_White": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TShirt_Grey": [
+        {
+            "CategoryName": "Футболки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TrackSuitJacket_Black": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TrackSuitJacket_Blue": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TrackSuitJacket_Green": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TrackSuitJacket_LightBlue": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TrackSuitJacket_Red": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "Raincoat_Orange": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Дождевики",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "Raincoat_Green": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Дождевики",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "Raincoat_Yellow": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Дождевики",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "Raincoat_Pink": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Дождевики",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "Raincoat_Red": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Дождевики",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "Raincoat_Blue": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Дождевики",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "Raincoat_Black": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        },
+        {
+            "CategoryName": "Дождевики",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "HikingJacket_Black": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "HikingJacket_Blue": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "HikingJacket_Red": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "HikingJacket_Green": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TelnyashkaShirt": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "DenimJacket": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "RidersJacket_Black": [
+        {
+            "CategoryName": "Куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TacticalShirt_Grey": [
+        {
+            "CategoryName": "Тактические куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TacticalShirt_Black": [
+        {
+            "CategoryName": "Тактические куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TacticalShirt_Olive": [
+        {
+            "CategoryName": "Тактические куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TacticalShirt_Tan": [
+        {
+            "CategoryName": "Тактические куртки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "IMP_Belt_LegHolster_Tan": [
+        {
+            "CategoryName": "Разгрузки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "IMP_UNLVest_UnloadingVest_Tan": [
+        {
+            "CategoryName": "Разгрузки",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        },
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_UNLVest_UnloadingVest_Black": [
+        {
+            "CategoryName": "Разгрузки",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "IMP_UNLVest_UnloadingVest_Green": [
+        {
+            "CategoryName": "Разгрузки",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "ShortJeans_Black": [
+        {
+            "CategoryName": "Шорты",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "ShortJeans_Blue": [
+        {
+            "CategoryName": "Шорты",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "ShortJeans_Brown": [
+        {
+            "CategoryName": "Шорты",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "ShortJeans_Darkblue": [
+        {
+            "CategoryName": "Шорты",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "ShortJeans_Green": [
+        {
+            "CategoryName": "Шорты",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "ShortJeans_Red": [
+        {
+            "CategoryName": "Шорты",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "SlacksPants_Beige": [
+        {
+            "CategoryName": "Брюки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "SlacksPants_Black": [
+        {
+            "CategoryName": "Брюки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "SlacksPants_Blue": [
+        {
+            "CategoryName": "Брюки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "SlacksPants_Brown": [
+        {
+            "CategoryName": "Брюки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "SlacksPants_DarkGrey": [
+        {
+            "CategoryName": "Брюки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "SlacksPants_Knaki": [
+        {
+            "CategoryName": "Брюки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "SlacksPants_LightGrey": [
+        {
+            "CategoryName": "Брюки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "SlacksPants_White": [
+        {
+            "CategoryName": "Брюки",
+            "PurchasePrice": "3500",
+            "SellingPrice": "350"
+        }
+    ],
+    "TrackSuitPants_Black": [
+        {
+            "CategoryName": "Спортивные брюки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "TrackSuitPants_Blue": [
+        {
+            "CategoryName": "Спортивные брюки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "TrackSuitPants_Green": [
+        {
+            "CategoryName": "Спортивные брюки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "TrackSuitPants_Red": [
+        {
+            "CategoryName": "Спортивные брюки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "CargoPants_Grey": [
+        {
+            "CategoryName": "Тактические штаны",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "CargoPants_Green": [
+        {
+            "CategoryName": "Тактические штаны",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "CargoPants_Blue": [
+        {
+            "CategoryName": "Тактические штаны",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "CargoPants_Black": [
+        {
+            "CategoryName": "Тактические штаны",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "CargoPants_Beige": [
+        {
+            "CategoryName": "Тактические штаны",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "TaloonBag_Blue": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "TaloonBag_Green": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "TaloonBag_Orange": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "TaloonBag_Violet": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DryBag_Orange": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DryBag_Yellow": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DryBag_Blue": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DryBag_Green": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DryBag_Black": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DryBag_Red": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "HuntingBag": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "MountainBag_Red": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "MountainBag_Blue": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "MountainBag_Orange": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "MountainBag_Green": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "ChildBag_Green": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "ChildBag_Red": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "ChildBag_Blue": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "CourierBag": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "FurCourierBag": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "ImprovisedBag": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "FurImprovisedBag": [
+        {
+            "CategoryName": "Рюкзаки",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "thleticShoes_Blue": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "AthleticShoes_Black": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "AthleticShoes_Brown": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "AthleticShoes_Green": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "AthleticShoes_Grey": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "HikingBoots_Black": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "HikingBootsLow_Black": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "HikingBootsLow_Blue": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "HikingBootsLow_Beige": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "HikingBootsLow_Grey": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Wellies_Black": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Wellies_Brown": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Wellies_Green": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Wellies_Grey": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "WorkingBoots_Grey": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "WorkingBoots_Brown": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "WorkingBoots_Green": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "WorkingBoots_Yellow": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "WorkingBoots_Beige": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DressShoes_Beige": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DressShoes_Black": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DressShoes_Brown": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DressShoes_Sunburst": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "DressShoes_White": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "JoggingShoes_Black": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "JoggingShoes_Blue": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "JoggingShoes_Red": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "JoggingShoes_Violet": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "JoggingShoes_White": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Sneakers_Black": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Sneakers_Gray": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Sneakers_Green": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Sneakers_Red": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Ballerinas_Blue": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Ballerinas_Red": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Ballerinas_White": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Ballerinas_Yellow": [
+        {
+            "CategoryName": "Обувь",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "CombatKnife": [
+        {
+            "CategoryName": "Самооборона",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "NyloneKnifeSheath": [
+        {
+            "CategoryName": "Самооборона",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "Colt1911": [
+        {
+            "CategoryName": "Самооборона",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "CZ75": [
+        {
+            "CategoryName": "Самооборона",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Makarovij70": [
+        {
+            "CategoryName": "Самооборона",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "AmmoBox_45ACP_25rnd": [
+        {
+            "CategoryName": "Патроны и магазины для пистолета",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "AmmoBox_9x19_25rnd": [
+        {
+            "CategoryName": "Патроны и магазины для пистолета",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "AmmoBox_380_35rnd": [
+        {
+            "CategoryName": "Патроны и магазины для пистолета",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Mag_1911_7Rnd": [
+        {
+            "CategoryName": "Патроны и магазины для пистолета",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Mag_CZ75_15Rnd": [
+        {
+            "CategoryName": "Патроны и магазины для пистолета",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Mag_IJ70_8Rnd": [
+        {
+            "CategoryName": "Патроны и магазины для пистолета",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Tomato": [
+        {
+            "CategoryName": "Сбыт овощей",
+            "PurchasePrice": "-1",
+            "SellingPrice": "100"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        }
+    ],
+    "GreenBellPepper": [
+        {
+            "CategoryName": "Сбыт овощей",
+            "PurchasePrice": "-1",
+            "SellingPrice": "70"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        }
+    ],
+    "Zucchini": [
+        {
+            "CategoryName": "Сбыт овощей",
+            "PurchasePrice": "-1",
+            "SellingPrice": "35"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        }
+    ],
+    "Pumpkin": [
+        {
+            "CategoryName": "Сбыт овощей",
+            "PurchasePrice": "-1",
+            "SellingPrice": "35"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        }
+    ],
+    "PotatoSeed": [
+        {
+            "CategoryName": "Сбыт овощей",
+            "PurchasePrice": "-1",
+            "SellingPrice": "35"
+        },
+        {
+            "CategoryName": "Питание Повстанец",
+            "PurchasePrice": "200",
+            "SellingPrice": "40"
+        }
+    ],
+    "Potato": [
+        {
+            "CategoryName": "Еда МЧС",
+            "PurchasePrice": "260",
+            "SellingPrice": "95"
+        }
+    ],
+    "DisinfectantSpray": [
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "BloodBagFull": [
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "380",
+            "SellingPrice": "110"
+        }
+    ],
+    "BloodBagIV": [
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "365",
+            "SellingPrice": "100"
+        }
+    ],
+    "Thermometer": [
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "340",
+            "SellingPrice": "95"
+        }
+    ],
+    "Syringe": [
+        {
+            "CategoryName": "Медицина МЧС",
+            "PurchasePrice": "275",
+            "SellingPrice": "98"
+        }
+    ],
+    "Compass": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "OrienteeringCompass": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "Paper": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "DuctTape": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Rag": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Chemlight_Yellow": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "265",
+            "SellingPrice": "75"
+        }
+    ],
+    "Netting": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "180",
+            "SellingPrice": "60"
+        }
+    ],
+    "Binoculars": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "440",
+            "SellingPrice": "170"
+        }
+    ],
+    "PortableGasLamp": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "380",
+            "SellingPrice": "110"
+        }
+    ],
+    "Lockpick": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "340",
+            "SellingPrice": "95"
+        }
+    ],
+    "Headtorch_Black": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Headtorch_Grey": [
+        {
+            "CategoryName": "Разные предметы МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "Crowbar": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "LugWrench": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "Rope": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "30"
+        }
+    ],
+    "SledgeHammer": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Screwdriver": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Hacksaw": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Hammer": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Shovel": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "Pickaxe": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "Hatchet": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "30"
+        }
+    ],
+    "WoodAxe": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Pliers": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "Wrench": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "BarbedWir": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "MetalWire": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "CombinationLock": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "BatteryCharger": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "CanisterGasoline": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "SparkPlug": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "TireRepairKit": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "TruckRadiator": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "TruckBattery": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "CarBattery": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "CarRadiator": [
+        {
+            "CategoryName": "Инструменты МЧС",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "MG_Head_Beret_MHS": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "MG_Shirt_MHS": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "MG_Shirt_MHS_serj": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "350",
+            "SellingPrice": "30"
+        }
+    ],
+    "MG_Shirt_MHS_Mlleyt": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "MG_Shirt_MHS_Leyt": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "MG_Shirt_MHS_Stleyt": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "MG_Shirt_MHS_Capt": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "MG_Shirt_MHS_Mayor": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "MG_Shirt_MHS_Podpol": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "MG_Shirt_MHS_Polk": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "350",
+            "SellingPrice": "30"
+        }
+    ],
+    "MG_Pants_MHS": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "CombatBoots_Grey": [
+        {
+            "CategoryName": "МЧС Одежда",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "NBCPantsYellow": [
+        {
+            "CategoryName": "Специальная экипировка МЧС",
+            "PurchasePrice": "740",
+            "SellingPrice": "100"
+        }
+    ],
+    "NBCBootsYellow": [
+        {
+            "CategoryName": "Специальная экипировка МЧС",
+            "PurchasePrice": "500",
+            "SellingPrice": "70"
+        }
+    ],
+    "NBCHoodYellow": [
+        {
+            "CategoryName": "Специальная экипировка МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "30"
+        }
+    ],
+    "NBCJacketYellow": [
+        {
+            "CategoryName": "Специальная экипировка МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "GasMask": [
+        {
+            "CategoryName": "Специальная экипировка МЧС",
+            "PurchasePrice": "350",
+            "SellingPrice": "35"
+        }
+    ],
+    "IMP_AUVest_6B5_Khaki": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_UNLVest_6h112_Green": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Vest_6B2_Camo": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_AUVest_6B3_Green": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_AUVest_6B5_Flora": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Keffiyeh_S_11": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MilitaryBelt": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "GorkaEJacket_Summer": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "IMP_Belt_LegHolster_MARPAT": [
+        {
+            "CategoryName": "Одежда Повстанца",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Joint": [
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "vokin_briquette_cannabis": [
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "vokin_MarryBaggie2": [
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "vokin_Cocainym2": [
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "vokin_Cocainym1": [
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "vokin_CannabisPlantSheet": [
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "vokin_CocaineSmall": [
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "vokin_MarryBaggie1": [
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        },
+        {
+            "CategoryName": "Драгдиллeр",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_GasolineCan": [
+        {
+            "CategoryName": "ГСМ",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_GasCan": [
+        {
+            "CategoryName": "ГСМ",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_GasCylinder": [
+        {
+            "CategoryName": "ГСМ",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_OilT": [
+        {
+            "CategoryName": "ГСМ",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "Vokin_Gas_barl": [
+        {
+            "CategoryName": "ГСМ",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_CigarBox": [
+        {
+            "CategoryName": "Ларёк",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MG_Cigar": [
+        {
+            "CategoryName": "Ларёк",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "WolfPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "SheepPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "FoxPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "WildboarPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "RabbitPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "CowPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "BearPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "DeerPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "PigPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "GoatPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ],
+    "MouflonPelt": [
+        {
+            "CategoryName": "Кожевник",
+            "PurchasePrice": "3300",
+            "SellingPrice": "50"
+        }
+    ]
+}
