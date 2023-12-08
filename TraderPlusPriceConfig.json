@@ -1,0 +1,1357 @@
+{
+    "Version": "2.5",
+    "EnableAutoCalculation": 0,
+    "EnableAutoDestockAtRestart": 1,
+    "EnableDefaultTraderStock": 0,
+    "TraderCategories": [
+        {
+            "CategoryName": "Перекусить Полиция",
+            "Products": [
+                "TunaCan,1,-1,500,250,-1",
+                "Crackers,1,-1,500,250,-1",
+                "SodaCan_Pipsi,1,-1,500,250,-1",
+                "SodaCan_Cola,1,-1,500,250,-1",
+                "SodaCan_Spite,1,-1,500,250,-1",
+                "SodaCan_Fronta,1,-1,500,250,-1",
+                "PeachesCan,1,-1,500,250,-1",
+                "BakedBeansCan,1,-1,500,250,-1",
+                "SpaghettiCan,1,-1,500,250,-1"
+            ]
+        },
+		{
+            "CategoryName": "Медицина Полиция",
+            "Products": [
+                "BandageDressing,1,-1,500,250,-1",
+                "CharcoalTablets,1,-1,500,250,-1",
+                "DisinfectantAlcohol,1,-1,500,250,-1",
+                "VitaminBottle,1,-1,500,250,-1",
+                "TetracyclineAntibiotics,1,-1,500,250,-1",
+                "PainkillerTablets,1,-1,500,250,-1",
+                "Heatpack,1,-1,500,250,-1"
+            ]
+        },
+        {
+            "CategoryName": "Спец. средства Полиция",
+            "Products": [
+				"Taser,1,-1,500,250,-1",
+                "policebaton,1,-1,500,250,-1",
+                "handcuffs,1,-1,500,250,-1",
+                "handcuffkeys,1,-1,500,250,-1",
+                "FlashGrenade,1,-1,500,250,-1",
+                "StunBaton,1,-1,500,250,-1"
+			]
+        },
+        {
+            "CategoryName": "Огнестрельное оружие Полиция",
+            "Products": [
+				"MP5K,1,-1,500,250,-1",
+                "AKS74U,1,-1,500,250,-1",
+                "IMP_AACHoneyBadger_Black,1,-1,500,250,-1",
+                "MP133Shotgun,1,-1,500,250,-1",
+                "PP19,1,-1,500,250,-1",
+				"FNX45,1,-1,500,250,-1",
+				"Glock19,1,-1,500,250,-1"
+			]
+        },
+		{
+            "CategoryName": "Обвес на оружие Полиция",
+            "Products": [
+				"MP5_Compensator,1,-1,500,250,-1",
+                "MP5k_StockBttstck,1,-1,500,250,-1",
+                "MP5_PlasticHndgrd,1,-1,500,250,-1",
+                "MP5_RailHndgrd,1,-1,500,250,-1",
+                "AKS74U_Bttstck,1,-1,500,250,-1",
+                "M4_MPBttstck,1,-1,500,250,-1",
+				"PP19_Bttstck,1,-1,500,250,-1"
+			]
+        },
+		{
+            "CategoryName": "Патроны и Магазины Полиция",
+            "Products": [
+                "Ammo_9x19,1,-1,1,250,-1",
+                "Ammo_545x39,1,-1,1,250,-1",
+                "Ammo_556x45,1,-1,1,250,-1",
+                "Ammo_12gaPellets,1,-1,1,250,-1",
+                "Ammo_380,1,-1,1,250,-1",
+				"Ammo_45ACP,1,-1,1,250,-1",
+				"Mag_taser,1,-1,1,250,-1",
+                "Mag_PP19_64Rnd,1,-1,1,250,-1",
+                "Mag_FNX45_15Rnd,1,-1,1,250,-1",
+				"Mag_Glock_15Rnd,1,-1,1,250,-1",
+				"IMP_Mag_Glock_21Rnd,1,-1,1,250,-1",
+                "Mag_MP5_30Rnd,1,-1,1,250,-1",
+                "Mag_AK74_30Rnd_Black,1,-1,1,250,-1",
+                "Mag_STANAG_30Rnd,1,-1,1,250,-1"
+            ]
+        },
+		{
+            "CategoryName": "Экипировка полиции Полиция",
+            "Products": [
+                "MG_Head_Cap_Police,1,-1,1,250,-1",
+				"MG_Head_OfficerCap,1,-1,1,250,-1",
+				"MG_Shirt_Police,1,-1,1,250,-1",
+                "MG_Shirt_Police_serj,1,-1,1,250,-1",
+                "MG_Shirt_Police_mlleit,1,-1,1,250,-1",
+				"MG_Shirt_Police_leit,1,-1,1,250,-1",
+				"MG_Shirt_Police_stleit,1,-1,1,250,-1",
+				"MG_Shirt_Police_Capt,1,-1,1,250,-1",
+				"MG_Shirt_Police_Mayor,1,-1,1,250,-1",
+				"MG_Shirt_Police_Podpol,1,-1,1,250,-1",
+				"MG_Shirt_Police_Polkov,1,-1,1,250,-1",
+				"MG_Pants_Police,1,-1,1,250,-1",
+				"MG_Vest_SWAT_Police,1,-1,1,250,-1",
+				"IMP_BeltSystem_Small_Black,1,-1,1,250,-1",
+				"MilitaryBoots_Black,1,-1,1,250,-1"
+            ]
+        },
+		{
+            "CategoryName": "Расходники Полиция",
+            "Products": [
+                "Battery9V,1,-1,1,250,-1",
+                "SewingKit,1,-1,1,250,-1",
+                "LeatherSewingKit,1,-1,1,250,-1",
+                "Megaphone,1,-1,1,250,-1",
+                "Matchbox,1,-1,1,250,-1",
+                "Whetstone,1,-1,1,250,-1",
+                "CanOpener,1,-1,1,250,-1",
+                "WeaponCleaningKit,1,-1,500,250,-1",
+                "PersonalRadio,1,-1,500,250,-1",
+                "LargeGasCanister,1,-1,500,250,-1"
+            ]
+        },
+		{
+            "CategoryName": "Сухпай",
+            "Products": [
+                "Canteen,1,-1,500,250,-1",
+                "WaterBottle,1,-1,500,250,-1",
+                "SodaCan_Pipsi,1,-1,500,250,-1",
+                "SodaCan_Cola,1,-1,500,250,-1",
+                "SodaCan_Spite,1,-1,500,250,-1",
+                "SodaCan_Fronta,1,-1,500,250,-1",
+                "PeachesCan,1,-1,500,250,-1",
+                "Rice,1,-1,500,250,-1",
+                "Pate,1,-1,500,250,-1",
+                "BakedBeansCan,1,-1,500,250,-1",
+                "SpaghettiCan,1,-1,500,250,-1",
+				"PeachesCan,1,-1,500,250,-1",
+				"TacticalBaconCan,1,-1,500,250,-1",
+				"PorkCan,1,-1,500,250,-1",
+				"Lunchmeat,1,-1,500,250,-1"
+				
+            ]
+        },
+		{
+            "CategoryName": "Первая помощь",
+            "Products": [
+                "Epinephrine,1,-1,1,1500,-1",
+                "VitaminBottle,1,-1,50,1500,600",
+                "BandageDressing,1,-1,500,375,-1",
+                "Morphine,1,-1,1,1475,-1",
+                "PainKillerTablets,1,-1,12,1475,-1",
+                "CharcoalTablets,1,-1,12,1475,-1",
+                "TetracyclineAntibiotics,1,-1,12,2250,-1",
+                "PurificationTablets,1,-1,12,1125,-1",
+                "BloodBagEmpty,1,-1,1,892,-1",
+                "BloodTestKit,1,-1,1,900,-1",
+                "StartKitIV,1,-1,1,825,-1",
+                "SalineBagIV,1,-1,1,575,-1"
+            ]
+        },
+        {
+            "CategoryName": "Оружие",
+            "Products": [
+				"SVD,1,-1,1,230000,5000",
+                "IMP_VSS_Tact,1,-1,1,60000,5000",
+                "IMP_RPK16_Black,1,-1,1,60000,5000",
+                "IMP_AACHoneyBadger_black,1,-1,1,60000,5000",
+                "IMP_DDMV4,1,-1,1,50000,11000",
+                "IMP_HK416,1,-1,1,35000,-1",
+                "IMP_Komrad12,1,-1,1,20750,2000",
+                "IMP_M24_SWS,1,-1,1,74000,15000",
+				"IMP_AKAlfa,1,-1,1,74000,15000"
+			]
+        },
+        {
+            "CategoryName": "Обвесы",
+            "Products": [
+				"IMP_Optic_NCStar,1,-1,1,40000,5500",
+                "IMP_PistolGrip_AK_CustomArms,1,-1,1,1000,150",
+                "IMP_Bttstk_RPK16_Black,1,-1,1,1000,150",
+                "IMP_Suppressor_AK_SpectehnikaTGPA,1,-1,1,35000,150",
+                "IMP_VerticalGrip_Black,1,-1,1,1000,150",
+                "IMP_Bttstk_M4_Fortis,1,-1,1,1000,150",
+                "HuntingOptic,1,-1,1,20000,5500",
+                "ACOGOptic_6x,1,-1,1,5000,1000",
+                "IMP_Optic_HAMR,1,-1,1,10500,5550",
+                "ReflexOptic,1,-1,1,1850,150",
+                "IMP_Optic_OKP7,1,-1,1,3500,500",
+                "IMP_Grip_FortisShift,1,-1,1,1000,150",
+                "M4_MPBttstck_Black,1,-1,1,1500,500",
+                "AK74_Hndgrd,1,-1,1,1000,150",
+                "AK_PlasticBttstck,1,-1,1,1300,200"
+			]
+        },
+		{
+            "CategoryName": "Магазины с патронами",
+            "Products": [
+				"IMP_Mag_RPK16_Drum_90Rnd,1,-1,0,3500,500",
+                "MWP_M82_ammo,1,-1,1,450,-1", 
+                "MWP_Mag_KALAMIT_10Rnd,1,-1,1,1250",
+                "Ammo_762x39,1,-1,20,1500,250",
+                "Mag_STANAG_60Rnd,1,-1,0,2500,500",
+                "Mag_AK74_30Rnd_Black,1,-1,0,2500,500",
+                "IMP_Mag_VSS_CoupledClip_20Rnd,1,-1,1,1250",
+                "IMP_Mag_Komrad12_Clip_20Rnd,1,-1,1,1250",
+                "Mag_STANAG_30Rnd,1,-1,1,1250",
+                "IMP_Mag_M24_5Rnd,1,-1,1,2500,100",
+                "Ammo_12gaPellets,1,-1,10,250,30",
+                "Ammo_545x39,1,-1,20,1650,450",
+                "Ammo_308Win,1,-1,20,3300,30",
+                "Ammo_9x39,1,-1,20,550,-1",
+                "Ammo_556x45,1,-1,20,1250,100",
+                "Ammo_9x19,1,-1,20,200,-1",
+				"Mag_AK5C_30Rnd,1,-1,1,74000,15000",
+				"IMP_Mag_AKAlfa_30Rnd,1,-1,1,74000,15000"
+			]
+        },
+		{
+            "CategoryName": "Одежда военного",
+            "Products": [
+				"MG_Shirt_Tact_Voen,1,-1,1,250,-1",
+				"MG_PantsTac_Voen,1,-1,1,250,-1",
+				"IMP_Boots_Lowa_Tan,1,-1,1,250,-1",
+				"MilitaryBoots_Black,1,-1,1,250,-1"
+			]
+        },
+		{
+            "CategoryName": "Экипировка",
+            "Products": [
+               "MG_Helm_RatnikCo_Voen,1,-1,1,5500,50",
+			   "MG_Vest_6b45_Voen,1,-1,1,550,50",
+               "MG_Pouch_EM_Multicam,1,-1,1,550,50",
+               "MG_Pouch_PlateCarrierHolster_Multicam,1,-1,1,25000,50",
+               "MG_Pouch_IFAK_Multicam,1,-1,1,65000,50",
+               "MG_Pouch_MagPouch1_Multicam,1,-1,1,8000,50",
+               "MG_Pouch_MagPouch2_Multicam,1,-1,1,15000,50",
+               "MG_Pouch_MagPouch3_Multicam,1,-1,1,500,80",
+               "MG_Pouch_MapPouch_Multicam,1,-1,1,500,80",
+               "MG_Pouch_LockPick_Multicam,1,-1,1,500,80",
+               "IMP_Bag_BigMilitaryBag_Green,1,-1,1,5000,1000",
+               "IMP_Bag_BlackJack,1,-1,1,6000,1000",
+               "IMP_Bag_DrawBridge,1,-1,1,10000,1000",
+               "IMP_Bag_CompactBag_Tan,1,-1,1,12000,150",
+               "IMP_RifleSling_Front_Green,1,-1,1,1500,-1",
+			   "IMP_Gloves_Mechanix_UltraBlack,1,-1,1,1500,-1",
+			   "IMP_Gloves_Mechanix_Tan,1,-1,1,1500,-1",
+			   "TacticalGloves_Black,1,-1,1,1500,-1"
+            ]
+        },
+		{
+            "CategoryName": "Спец снаряжение",
+            "Products": [
+			   "NBCPantsGray,1,-1,1,15000,500",
+			   "NBCBootsGray,1,-1,1,15000,500",
+			   "NBCHoodGray,1,-1,1,15000,500",
+			   "NBCJacketGray,1,-1,1,15000,500",
+			   "GP5GasMask,1,-1,1,15000,500",
+			   "AirborneMask,1,-1,1,15000,500",
+			   "GasMask_Filter,1,-1,1,15000,500",
+			   "NVGoggles,1,-1,1,15000,500",
+			   "NVGHeadstrap,1,-1,1,15000,500",
+			   "IMP_NVG_GPNVG_18_Black,1,-1,1,15000,500"
+			]
+        },
+		{
+            "CategoryName": "Необходимое",
+            "Products": [
+				"Battery9V,1,-1,1,250,-1",
+                "SewingKit,1,-1,1,250,-1",
+                "LeatherSewingKit,1,-1,1,250,-1",
+                "Megaphone,1,-1,1,250,-1",
+                "Matchbox,1,-1,1,250,-1",
+                "Whetstone,1,-1,1,250,-1",
+                "CanOpener,1,-1,1,250,-1",
+                "WeaponCleaningKit,1,-1,500,250,-1",
+                "PersonalRadio,1,-1,500,250,-1",
+                "LargeGasCanister,1,-1,500,250,-1"
+			]
+        },
+		{
+            "CategoryName": "Пища",
+            "Products": [
+                "MG_IRP1,1,-1,500,1250,-1",
+                "Rice,1,-1,500,250,-1",
+                "PeachesCan,1,-1,500,250,-1",
+                "SardinesCan,1,-1,1,500,-1",
+                "SpaghettiCan,1,-1,500,250,-1",
+                "BakedBeansCan,1,-1,500,250,-1"
+            ]
+        },
+		{
+            "CategoryName": "Аптека",
+            "Products": [
+                "VitaminBottle,1,-1,50,1500,600",
+                "BandageDressing,1,-1,500,375,-1",
+                "Morphine,1,-1,1,1475,-1",
+                "PainKillerTablets,1,-1,12,1475,-1",
+                "CharcoalTablets,1,-1,12,1475,-1",
+                "TetracyclineAntibiotics,1,-1,12,2250,-1",
+                "PurificationTablets,1,-1,12,1125,-1",
+                "BloodBagEmpty,1,-1,1,892,-1",
+                "BloodTestKit,1,-1,1,900,-1",
+                "StartKitIV,1,-1,1,825,-1",
+                "SalineBagIV,1,-1,1,575,-1"
+            ]
+        },
+		{
+            "CategoryName": "Стволы",
+            "Products": [
+                "IMP_Vector,1,-1,1,30000,100",
+                "IMP_AEK,1,-1,1,40000,100",
+                "AK74,1,-1,1,45000,100",
+                "AKM,1,-1,1,60000,5000",
+                "IMP_VR80,1,-1,1,25000,3100"
+            ]
+        },
+		{
+            "CategoryName": "Модули",
+            "Products": [
+				"IMP_Supp_Vector_Black,1,-1,1,30000,500",
+                "IMP_Optic_OKP7,1,-1,1,12000,500",
+                "IMP_RailAK,1,-1,1,1500,-1",
+                "IMP_Optic_OKP7,1,-1,1,8000,500",
+                "IMP_VerticalGrip_Black,1,-1,1,1500,500",
+                "IMP_Bttstk_AK_Magpul,1,-1,1,1500,500",
+                "IMP_Hndgrd_AK_Polymer_Black,1,-1,1,300,10",
+                "UniversalLight,1,-1,1,300,30",
+                "PUScopeOptic,1,-1,1,8000,150",
+                "HuntingOptic,1,-1,1,20000,5500",
+                "PSO1Optic,1,-1,1,8000,300",
+                "ReflexOptic,1,-1,1,8000,150"
+			]
+        },
+		{
+            "CategoryName": "Магазины/патроны",
+            "Products": [
+                "Ammo_12gaPellets,1,-1,60,750,30",
+                "Ammo_545x39,1,-1,20,1000,20",
+                "Ammo_762x39,1,-1,20,1000,40",
+                "Ammo_556x45,1,-1,20,1000,100",
+                "Ammo_9x19,1,-1,20,100,-1",
+                "Ammo_9x39,1,-1,20,250,-1",
+                "Ammo_45ACP,1,-1,20,350,-1",
+                "IMP_Mag_Vector_35Rnd,1,-1,1,1800,50",
+                "Mag_AK74_30Rnd_Black,1,-1,1,2300,50",
+                "IMP_Mag_VR80_5Rnd,1,-1,1,2300,50",
+                "IMP_Mag_VR80_Clip_20Rnd,1,-1,1,5300,50",
+                "Mag_AKM_30Rnd,1,-1,1,3300,50"
+            ]
+        },
+		{
+            "CategoryName": "Вещи",
+            "Products": [
+                "Armband_Zagorky,1,-1,1,500,50",
+                "IMP_Bag_BigMilitaryBag_Black,1,-1,1,18000,1000",
+                "IMP_Helmet_K63_Raised_Black,1,-1,1,25000,50",
+                "IMP_Vest_6B45_Black,1,-1,1,55000,50",
+                "IMP_Boots_Lowa_Black,1,-1,1,500,50",
+                "WoolGloves_Black,1,-1,1,500,50",
+                "KOD_stalker4_Balaclava3Holes,1,-1,1,500,50",
+                "IMP_Pouch_IFAK_Black,1,-1,1,500,80",
+                "IMP_Pouch_MagPouch2_Black,1,-1,1,500,80",
+                "IMP_Pouch_EM_Black,1,-1,1,500,80",
+                "IMP_Pouch_NBCBag_UCP,1,-1,1,2500,50",
+                "IMP_Pouch_Tactical_Black,1,-1,1,2500,50",
+                "IMP_Bag_CompactBag2_Black,1,-1,1,8000,50"
+            ]
+        },
+        {
+            "CategoryName": "Еда",
+            "Products": [
+				"Canteen,1,-1,500,250,-1",
+                "WaterBottle,1,-1,500,250,-1",
+                "SodaCan_Pipsi,1,-1,500,250,-1",
+                "SodaCan_Cola,1,-1,500,250,-1",
+                "SodaCan_Spite,1,-1,500,250,-1",
+                "SodaCan_Fronta,1,-1,500,250,-1",
+                "PeachesCan,1,-1,500,250,-1",
+                "Rice,1,-1,500,250,-1",
+                "Pate,1,-1,500,250,-1",
+                "BakedBeansCan,1,-1,500,250,-1",
+                "SpaghettiCan,1,-1,500,250,-1"
+			]
+        },
+		{
+            "CategoryName": "Аптечка",
+            "Products": [
+				"VitaminBottle,1,-1,50,1500,600",
+                "BandageDressing,1,-1,500,375,-1",
+                "PainKillerTablets,1,-1,12,1475,-1",
+                "CharcoalTablets,1,-1,12,1475,-1",
+                "TetracyclineAntibiotics,1,-1,12,2250,-1",
+                "PurificationTablets,1,-1,12,1125,-1"
+			]
+        },
+		{
+            "CategoryName": "Пушки",
+            "Products": [
+				"AKM,1,-1,1,55750,10000",
+                "Saiga,1,-1,1,25500,9200",
+                "Mosin9130,1,-1,1,37000,12000",
+				"CZ527,1,-1,1,37000,12000"
+			]
+        },
+		{
+            "CategoryName": "Обвесы на стволы",
+            "Products": [
+				"HuntingOptic,1,-1,1,550,-1",
+                "PUScopeOptic,1,-1,1,1500,-1"
+			]
+        },
+		{
+            "CategoryName": "Магазины и патроны",
+            "Products": [
+                "AmmoBox_762x54_20Rnd,1,-1,1,4000,-1",
+                "Ammo_12gaPellets,1,-1,60,250,30",
+                "Ammo_762x54,1,-1,20,2800,200",
+                "Ammo_762x39,1,-1,20,1250,450",
+                "Mag_AKM_30Rnd,1,-1,1,2550,50",
+			    "CZ527_5Rnd,1,-1,1,2550,50"
+			]
+        },
+		{
+            "CategoryName": "Снаряга",
+            "Products": [
+                "IMP_UNLVest_UnloadingVest_EMR,1,-1,1,800,50",
+                "IMP_Helmet_Mich2002,1,-1,1,8000,50",
+                "IMP_Vest_JPC_Green,1,-1,1,15000,15000",
+                "IMP_Sling_Back,1,-1,1,500,150",
+                "IMP_Pouch_IFAK_Green,1,-1,1,250,50",
+                "IMP_Pouch_MagPouch2_Green,1,-1,1,250,50",
+                "IMP_Pouch_EM_Green,1,-1,1,250,50",
+                "IMP_Bag_Gunslinger,1,-1,1,8000,50",
+                "IMP_Bag_VKBO,1,-1,1,8000,50"
+				
+            ]
+        },
+        {
+            "CategoryName": "Жратва",
+            "Products": [
+				"Canteen,1,-1,500,250,-1",
+                "WaterBottle,1,-1,500,250,-1",
+                "SodaCan_Pipsi,1,-1,500,250,-1",
+                "SodaCan_Cola,1,-1,500,250,-1",
+                "SodaCan_Spite,1,-1,500,250,-1",
+                "SodaCan_Fronta,1,-1,500,250,-1",
+                "PeachesCan,1,-1,500,250,-1",
+                "Rice,1,-1,500,250,-1",
+                "Pate,1,-1,500,250,-1",
+                "BakedBeansCan,1,-1,500,250,-1",
+                "SpaghettiCan,1,-1,500,250,-1"
+			]
+        },
+        {
+            "CategoryName": "Мед. товары",
+            "Products": [
+				"VitaminBottle,1,-1,50,1500,600",
+                "BandageDressing,1,-1,500,375,-1",
+                "Morphine,1,-1,1,1475,-1",
+                "PainKillerTablets,1,-1,12,1475,-1",
+                "CharcoalTablets,1,-1,12,1475,-1",
+                "TetracyclineAntibiotics,1,-1,12,2250,-1",
+                "PurificationTablets,1,-1,12,1125,-1"
+			]
+        },
+		{
+            "CategoryName": "Огнестрел",
+            "Products": [
+                "Mosim9130,1,-1,1,65000,15000",
+                "B95,1,-1,1,50250,11000",
+                "Saiga,1,-1,1,34000,-1",
+                "AKS74U,1,-1,1,59000,15000"
+			]
+        },
+		{
+            "CategoryName": "Обвесы на огнестрел",
+            "Products": [
+                "PUScopeOptic,1,-1,1,8000,150",
+                "HuntingOptic,1,-1,1,20000,5500"
+			]
+        },
+		{
+            "CategoryName": "Патры и Магазы",
+            "Products": [
+                "Ammo_12gaPellets,1,-1,10,250,30",
+                "Ammo_308Win,1,-1,20,3300,30",
+				"Ammo_762x54,1,-1,20,3300,30",
+				"Ammo_545x39,1,-1,20,3300,30",
+				"Mag_AK74_30Rnd_Black,1,-1,20,3300,30",
+				"Mag_Saiga_5Rnd,1,-1,20,3300,30"
+			]
+        },
+		{
+            "CategoryName": "Шмотье",
+            "Products": [
+				"IMP_Helmet_Mich_Black,1,-1,1,15000,800",
+                "IMP_Helmet_Tactic_Raised_Black,1,-1,1,10000,800",
+                "IMP_Vest_JPC_Black,1,-1,1,15000,800",
+                "HunterPants_Autum,1,-1,1,15000,800",
+				"HuntingJacket_Autum,1,-1,1,15000,800",
+				"CombatBoots_Black,1,-1,1,15000,800",
+				"HuntingVest,1,-1,1,15000,800",
+                "IMP_Bag_MilitaryBag_Black,1,-1,1,10000,80",
+                "IMP_Bag_SportBag,1,-1,1,5000,80",
+                "Balaclava3Holes_Black,1,-1,1,500,80",
+                "IMP_Mask_FaceMask_Skull,1,-1,1,500,80",
+                "FlatCap_Brown,1,-1,1,500,80",
+                "FlatCap_Black,1,-1,1,500,80",
+                "FlatCap_Red,1,-1,1,500,80",
+                "FlatCap_BrownCheck,1,-1,1,500,80"
+			]
+        },
+		{
+            "CategoryName": "Техника",
+            "Products": []
+        },
+		{
+            "CategoryName": "Запчасти",
+            "Products": []
+        },
+        {
+            "CategoryName": "Хавка",
+            "Products": [
+				"PeachesCan,1,-1,500,250,-1",
+                "SardinesCan,1,-1,1,500,-1",
+                "SpaghettiCan,1,-1,500,250,-1",
+                "NZRP_Radiation_Vodka,1,-1,500,500,-1",
+                "KOD_Bandit_Canteen,1,-1,1000,550,-1",
+                "IMP_Bottle_BottlePouch_Black,1,-1,1000,550,-1",
+                "BakedBeansCan,1,-1,500,250,-1"
+			]
+        },
+        {
+            "CategoryName": "Лекарства",
+            "Products": [
+				"VitaminBottle,1,-1,50,1500,600",
+                "BandageDressing,1,-1,500,375,-1",
+                "Morphine,1,-1,1,1475,-1",
+                "PainKillerTablets,1,-1,12,1475,-1",
+                "CharcoalTablets,1,-1,12,1475,-1",
+                "TetracyclineAntibiotics,1,-1,12,2250,-1",
+                "PurificationTablets,1,-1,12,1125,-1",
+                "BloodBagEmpty,1,-1,1,892,-1",
+                "BloodTestKit,1,-1,1,900,-1",
+                "StartKitIV,1,-1,1,825,-1",
+                "SalineBagIV,1,-1,1,575,-1"
+			]
+        },
+		{
+            "CategoryName": "Ганы",
+            "Products": [
+				"IMP_AR15Skeleton,1,-1,1,68500,15000",
+                "IMP_AACHoneyBadger_Green,1,-1,1,60000,5000",
+                "IMP_AEK,1,-1,1,40750,5000",
+                "IMP_DDMV4,1,-1,1,52250,11000",
+                "IMP_HK416,1,-1,1,35000,-1",
+                "AK74,1,-1,1,39500,5000",
+                "IMP_M24_SWS,1,-1,1,74000,15000"
+			]
+        },
+		{
+            "CategoryName": "Модули на оружие",
+            "Products": [
+				"HuntingOptic,1,-1,1,20000,5500",
+                "ACOGOptic_6x,1,-1,1,5000,1000",
+                "IMP_Optic_HAMR,1,-1,1,10500,5550",
+                "ReflexOptic,1,-1,1,1850,150",
+                "IMP_Optic_OKP7,1,-1,1,3500,500",
+                "IMP_Grip_FortisShift,1,-1,1,1000,150",
+                "M4_MPBttstck_Black,1,-1,1,1500,500",
+                "AK74_Hndgrd,1,-1,1,1000,150",
+                "AK_PlasticBttstck,1,-1,1,1300,200"
+			]
+        },
+		{
+            "CategoryName": "Патр и Маг",
+            "Products": [
+				"Ammo_762x39,1,-1,20,1500,250",
+                "Mag_AK5C_30Rnd,1,-1,1,1500,-1",
+                "Mag_AKM_Drum75Rnd_Black,1,-1,1,2600,500",
+                "Mag_STANAG_60Rnd,1,-1,0,2500,500",
+                "Mag_AK74_30Rnd_Black,1,-1,0,2500,500",
+                "Mag_STANAG_30Rnd,1,-1,1,1250",
+                "IMP_Mag_M24_5Rnd,1,-1,1,2500,100",
+                "Ammo_12gaPellets,1,-1,10,250,30",
+                "Ammo_545x39,1,-1,20,1650,450",
+                "Ammo_308Win,1,-1,20,3300,30",
+                "Ammo_556x45,1,-1,20,1250,100",
+                "Ammo_9x19,1,-1,20,200,-1"
+			]
+        },
+		{
+            "CategoryName": "Экипа",
+            "Products": [
+				"IMP_Gloves_SWAT_Gloves_Black,1,-1,1,1000,150",
+                "IMP_Gloves_SWAT_Gloves_UCP,1,-1,1,1000,150",
+                "IMP_Gloves_SWAT_Gloves_MARPAT,1,-1,1,1000,150",
+                "IMP_Mask_Poncho_Black,1,-1,1,2600,150",
+                "IMP_Mask_Poncho_Brown,1,-1,1,2600,150",
+                "IMP_Jacket_Gorka_Black,1,-1,1,1000,150",
+                "IMP_Jacket_Gorka_Tan,1,-1,1,1000,150",
+                "IMP_Jacket_Gorka_Forest,1,-1,1,1000,150",
+                "IMP_Pants_Tactical_Black,1,-1,1,1000,150",
+                "IMP_Pants_Tactical_Green,1,-1,1,1000,150",
+                "IMP_Pants_Tactical_Tan,1,-1,1,1000,150",
+                "IMP_Vest_AACVest_Black,1,-1,1,26000,4000",
+                "IMP_Vest_AACVest_Green,1,-1,1,26000,4000",
+                "IMP_Vest_AACVest_Tan,1,-1,1,26000,4000",
+                "IMP_Vest_TacTec_Black,1,-1,1,23000,4000",
+                "IMP_Vest_TacTec_Green,1,-1,1,23000,4000",
+                "IMP_Vest_TacTec_Tan,1,-1,1,23000,4000",
+                "JungleBoots_Black,1,-1,1,850,150",
+                "HikingBoots_Brown,1,-1,1,700,150",
+                "MilitaryBoots_Black,1,-1,1,900,150"
+			]
+        },
+		{
+            "CategoryName": "Еда повстанца",
+            "Products": [
+                "Canteen,1,-1,500,250,-1",
+                "WaterBottle,1,-1,500,250,-1",
+                "SodaCan_Pipsi,1,-1,500,250,-1",
+                "SodaCan_Cola,1,-1,500,250,-1",
+                "SodaCan_Spite,1,-1,500,250,-1",
+                "SodaCan_Fronta,1,-1,500,250,-1",
+                "PeachesCan,1,-1,500,250,-1",
+                "Rice,1,-1,500,250,-1",
+                "Pate,1,-1,500,250,-1",
+                "BakedBeansCan,1,-1,500,250,-1",
+                "SpaghettiCan,1,-1,500,250,-1"
+            ]
+        },
+		{
+            "CategoryName": "Медичка",
+            "Products": [
+                "BandageDressing,1,-1,500,250,-1",
+                "CharcoalTablets,1,-1,500,250,-1",
+                "DisinfectantAlcohol,1,-1,500,250,-1",
+                "VitaminBottle,1,-1,500,250,-1",
+                "TetracyclineAntibiotics,1,-1,500,250,-1",
+                "PainkillerTablets,1,-1,500,250,-1",
+                "Heatpack,1,-1,500,250,-1",
+                "StartKitIV,1,-1,500,250,-1",
+                "SalineBagIV,1,-1,500,250,-1",
+                "BloodTestKit,1,-1,500,250,-1",
+                "SalineBag,1,-1,500,250,-1",
+                "BloodBagEmpty,1,-1,500,250,-1",
+                "IodineTincture,1,-1,500,250,-1",
+                "Epinephrine,1,-1,500,-1,-1000",
+                "Morphine,1,-1,500,-1,-1000"
+            ]
+        },
+        {
+            "CategoryName": "Стрелковое",
+            "Products": [
+				"IMP_AR15Skeleton,1,-1,1,68500,15000",
+                "IMP_AACHoneyBadger_Green,1,-1,1,60000,5000",
+                "IMP_AEK,1,-1,1,40750,5000",
+                "IMP_DDMV4,1,-1,1,52250,11000",
+                "IMP_HK416,1,-1,1,35000,-1",
+                "AK74,1,-1,1,39500,5000",
+                "IMP_M24_SWS,1,-1,1,74000,15000"
+			]
+        },
+		{
+            "CategoryName": "Обвес на стрелковое",
+            "Products": [
+				"HuntingOptic,1,-1,1,20000,5500",
+                "ACOGOptic_6x,1,-1,1,5000,1000",
+                "IMP_Optic_HAMR,1,-1,1,10500,5550",
+                "ReflexOptic,1,-1,1,1850,150",
+                "IMP_Optic_OKP7,1,-1,1,3500,500",
+                "IMP_Grip_FortisShift,1,-1,1,1000,150",
+                "M4_MPBttstck_Black,1,-1,1,1500,500",
+                "AK74_Hndgrd,1,-1,1,1000,150",
+                "AK_PlasticBttstck,1,-1,1,1300,200"
+			]
+        },
+		{
+            "CategoryName": "Патры и Маг",
+            "Products": [
+				"Ammo_762x39,1,-1,20,1500,250",
+                "Mag_AK5C_30Rnd,1,-1,1,1500,-1",
+                "Mag_AKM_Drum75Rnd_Black,1,-1,1,2600,500",
+                "Mag_STANAG_60Rnd,1,-1,0,2500,500",
+                "Mag_AK74_30Rnd_Black,1,-1,0,2500,500",
+                "Mag_STANAG_30Rnd,1,-1,1,1250",
+                "IMP_Mag_M24_5Rnd,1,-1,1,2500,100",
+                "Ammo_12gaPellets,1,-1,10,250,30",
+                "Ammo_545x39,1,-1,20,1650,450",
+                "Ammo_308Win,1,-1,20,3300,30",
+                "Ammo_556x45,1,-1,20,1250,100",
+                "Ammo_9x19,1,-1,20,200,-1"
+			]
+        },
+        {
+            "CategoryName": "Одежда повстанца",
+            "Products": [
+				"IMP_UNLVest_UnloadingVest_EMR,1,-1,1,800,50",
+                "IMP_Helmet_Mich2002,1,-1,1,8000,50",
+                "IMP_Helmet_Altyn_EMR,1,-1,1,12000,50",
+                "IMP_Vest_RedutT5_Camo,1,-1,1,65000,15000",
+                "IMP_Vest_JPC_Green,1,-1,1,15000,15000",
+                "IMP_Sling_Back,1,-1,1,500,150",
+                "IMP_Pouch_IFAK_Green,1,-1,1,250,50",
+                "IMP_Pouch_MagPouch2_Green,1,-1,1,250,50",
+                "IMP_Pouch_EM_Green,1,-1,1,250,50",
+                "IMP_Bag_Gunslinger,1,-1,1,8000,50",
+                "IMP_Bag_VKBO,1,-1,1,8000,50",
+                "IMP_Belt_BeltSystem_Large_60_Black,1,-1,1,6000,50"
+			]
+        },
+		{
+            "CategoryName": "Легковые авто",
+            "Products": []
+        },
+		{
+            "CategoryName": "Грузовой транспорт",
+            "Products": []
+        },
+		{
+            "CategoryName": "Коммерческий транспорт",
+            "Products": []
+        },
+		{
+            "CategoryName": "Лицензия на Легковой транспорт",
+            "Products": []
+        },
+		{
+            "CategoryName": "Лицензия на Грузовой транспорт",
+            "Products": []
+        },
+        {
+            "CategoryName": "Лицензия на огнестрельное оружие",
+            "Products": []
+        },
+        {
+            "CategoryName": "Лицензия на охоту",
+            "Products": []
+        },
+		{
+            "CategoryName": "Лицензия на рыбалку",
+            "Products": []
+        },
+		{
+            "CategoryName": "Овощи и фрукты",
+            "Products": [
+			 "Apple,1,-1,1,200,40",
+			 "SlicedPumpkin,1,-1,1,250,40",
+			 "Plum,1,-1,1,200,40",
+			 "Pear,1,-1,1,200,40"
+			]
+        },
+		{
+            "CategoryName": "Консервы",
+            "Products": [
+             "BakedBeansCan,1,-1,500,250,-1",
+			 "PeachesCan,1,-1,500,250,-1",
+			 "TacticalBaconCan,1,-1,1,550,135",
+			 "SpaghettiCan,1,-1,500,250,-1",
+			 "SardinesCan,1,-1,1,275,98",
+			 "TunaCan,1,-1,500,250,-1",
+			 "DogFoodCan,1,-1,1,260,95",
+			 "CatFoodCan,1,-1,1,270,90",
+			 "PorkCan,1,-1,1,350,50"
+			]
+		},
+		{
+            "CategoryName": "Разная еда",
+            "Products": [
+			 "Canteen,1,-1,1,740,100",
+			 "WaterBottle,1,-1,1,500,70",
+			 "SodaCan_Pipsi,1,-1,500,250,-1",
+			 "SodaCan_Cola,1,-1,500,250,-1",
+			 "SodaCan_Spite,1,-1,500,250,-1",
+			 "SodaCan_Kvass,1,-1,1,350,35",
+			 "SodaCan_Fronta,1,-1,500,250,-1",
+			 "Vodka,1,-1,1,450,220",
+			 "BoxCerealCrunchin,1,-1,1,265,75",
+			 "PowderedMilk,1,-1,1,180,60",
+			 "Marmalade,1,-1,1,440,170",
+			 "Honey,1,-1,1,750,350",
+			 "Lunchmeat,1,-1,1,350,50",
+			 "UnknownFoodCan,1,-1,1,100,50",
+			 "Pajka,1,-1,1,350,50",
+			 "Pate,1,-1,1,350,50",
+			 "BrisketSpread,1,-1,1,380,60",
+			 "Chips,1,-1,1,125,50",
+			 "Crackers,1,-1,500,250,-1",
+			 "SaltySticks,1,-1,1,110,35",
+			 "ZagorkyPeanuts,1,-1,1,175,50",
+			 "ZagorkyChocolate,1,-1,1,165,50",
+			 "Zagorky,1,-1,1,150,50"
+			]
+        },	 
+		{
+            "CategoryName": "Головные уборы",
+            "Products": [
+                "BaseballCap_Blue,1,-1,1,2500,300",
+                "BaseballCap_Beige,1,-1,1,2500,300",
+                "BaseballCap_Black,1,-1,1,2500,300",
+                "BaseballCap_Olive,1,-1,1,2500,300",
+                "BaseballCap_Pink,1,-1,1,2500,300",
+				"BaseballCap_Red,1,-1,1,2500,300",
+				"BaseballCap_Camo,1,-1,1,2500,300",
+				"BaseballCap_CMMG_Black,1,-1,1,2500,300",
+				"BaseballCap_CMMG_Pink,1,-1,1,2500,300",
+				"BeanieHat_Brown,1,-1,1,3100,400",
+				"BeanieHat_Blue_Pink,1,-1,1,3100,400",
+				"BeanieHat_Black,1,-1,1,3100,400",
+				"BeanieHat_Beige,1,-1,1,3100,400",
+				"Ushanka_Black,1,-1,1,4100,500",
+				"FlatCap_Black,1,-1,1,2500,300",
+				"FlatCap_Blue,1,-1,1,2500,300",
+				"FlatCap_Red,1,-1,1,2500,300",
+				"FlatCap_Brown,1,-1,1,2500,300"
+			]
+        },
+		{
+            "CategoryName": "Футболки",
+            "Products": [
+				"TShirt_Beige,1,-1,1,3500,350",
+				"TShirt_Black,1,-1,1,3500,350",
+				"TShirt_Blue,1,-1,1,3500,350",
+				"TShirt_Green,1,-1,1,3500,350",
+				"TShirt_OrangeWhiteStripes,1,-1,1,3500,350",
+				"TShirt_Red,1,-1,1,3500,350",
+				"TShirt_RedBlackStripes,1,-1,1,3500,350",
+				"TShirt_White,1,-1,1,3500,350",
+				"TShirt_Grey,1,-1,1,3500,350"
+			]
+        },
+        {
+            "CategoryName": "Куртки",
+            "Products": [
+				"TrackSuitJacket_Black,1,-1,1,3500,350",
+				"TrackSuitJacket_Blue,1,-1,1,3500,350",
+				"TrackSuitJacket_Green,1,-1,1,3500,350",
+				"TrackSuitJacket_LightBlue,1,-1,1,3500,350",
+				"TrackSuitJacket_Red,1,-1,1,3500,350",
+				"Raincoat_Orange,1,-1,1,3500,350",
+				"Raincoat_Green,1,-1,1,3500,350",
+				"Raincoat_Yellow,1,-1,1,3500,350",
+				"Raincoat_Pink,1,-1,1,3500,350",
+				"Raincoat_Red,1,-1,1,3500,350",
+				"Raincoat_Blue,1,-1,1,3500,350",
+				"Raincoat_Black,1,-1,1,3500,350",
+				"HikingJacket_Black,1,-1,1,3500,350",
+				"HikingJacket_Blue,1,-1,1,3500,350",
+				"HikingJacket_Red,1,-1,1,3500,350",
+				"HikingJacket_Green,1,-1,1,3500,350",
+				"TelnyashkaShirt,1,-1,1,3500,350",
+				"DenimJacket,1,-1,1,3500,350",
+				"RidersJacket_Black,1,-1,1,3500,350"
+			]
+        },
+        {
+            "CategoryName": "Тактические куртки",
+            "Products": [
+			     "TacticalShirt_Grey,1,-1,1,3500,350",
+			     "TacticalShirt_Black,1,-1,1,3500,350",
+			     "TacticalShirt_Olive,1,-1,1,3500,350",
+			     "TacticalShirt_Tan,1,-1,1,3500,350"
+			]
+        },
+		{
+            "CategoryName": "Дождевики",
+            "Products": [
+			"Raincoat_Orange,1,-1,1,3500,350",
+			"Raincoat_Green,1,-1,1,3500,350",
+			"Raincoat_Yellow,1,-1,1,3500,350",
+			"Raincoat_Pink,1,-1,1,3500,350",
+			"Raincoat_Red,1,-1,1,3500,350",
+			"Raincoat_Blue,1,-1,1,3500,350",
+			"Raincoat_Black,1,-1,1,3500,350"
+			]
+        },
+		{
+            "CategoryName": "Разгрузки",
+            "Products": [
+			 "IMP_Belt_LegHolster_Tan,1,-1,1,740,100",
+			 "IMP_UNLVest_UnloadingVest_Tan,1,-1,1,500,70",
+			 "IMP_UNLVest_UnloadingVest_Black,1,-1,1,500,70",
+			 "IMP_UNLVest_UnloadingVest_Green,1,-1,1,500,70"
+			]
+        },
+		{
+            "CategoryName": "Шорты",
+            "Products": [
+			"ShortJeans_Black,1,-1,1,3500,350",
+			"ShortJeans_Blue,1,-1,1,3500,350",
+			"ShortJeans_Brown,1,-1,1,3500,350",
+			"ShortJeans_Darkblue,1,-1,1,3500,350",
+			"ShortJeans_Green,1,-1,1,3500,350",
+			"ShortJeans_Red,1,-1,1,3500,350"
+			]
+        },
+		{
+            "CategoryName": "Брюки",
+            "Products": [
+			"SlacksPants_Beige,1,-1,1,3500,350",
+			"SlacksPants_Black,1,-1,1,3500,350",
+			"SlacksPants_Blue,1,-1,1,3500,350",
+			"SlacksPants_Brown,1,-1,1,3500,350",
+			"SlacksPants_DarkGrey,1,-1,1,3500,350",
+			"SlacksPants_Knaki,1,-1,1,3500,350",
+			"SlacksPants_LightGrey,1,-1,1,3500,350",
+			"SlacksPants_White,1,-1,1,3500,350"
+			]
+        },
+		{
+            "CategoryName": "Спортивные брюки",
+            "Products": [
+				"TrackSuitPants_Black,1,-1,1,740,100",
+				"TrackSuitPants_Blue,1,-1,1,740,100",
+				"TrackSuitPants_Green,1,-1,1,740,100",
+				"TrackSuitPants_Red,1,-1,1,740,100"
+			]
+        },
+		{
+            "CategoryName": "Тактические штаны",
+            "Products": [
+			 "CargoPants_Grey,1,-1,1,740,100",
+			 "CargoPants_Green,1,-1,1,740,100",
+			 "CargoPants_Blue,1,-1,1,740,100",
+			 "CargoPants_Black,1,-1,1,740,100",
+			 "CargoPants_Beige,1,-1,1,740,100"
+			]
+        },
+		{
+            "CategoryName": "Рюкзаки",
+            "Products": [
+				"TaloonBag_Blue,1,-1,1,740,100",
+				"TaloonBag_Green,1,-1,1,740,100",
+				"TaloonBag_Orange,1,-1,1,740,100",
+				"TaloonBag_Violet,1,-1,1,740,100",
+				"DryBag_Orange,1,-1,1,740,100",
+				"DryBag_Yellow,1,-1,1,740,100",
+				"DryBag_Blue,1,-1,1,740,100",
+				"DryBag_Green,1,-1,1,740,100",
+				"DryBag_Black,1,-1,1,740,100",
+				"DryBag_Red,1,-1,1,740,100",
+				"HuntingBag,1,-1,1,740,100",
+				"MountainBag_Red,1,-1,1,740,100",
+				"MountainBag_Blue,1,-1,1,740,100",
+				"MountainBag_Orange,1,-1,1,740,100",
+				"MountainBag_Green,1,-1,1,740,100",
+				"ChildBag_Green,1,-1,1,740,100",
+				"ChildBag_Red,1,-1,1,740,100",
+				"ChildBag_Blue,1,-1,1,740,100",
+				"CourierBag,1,-1,1,740,100",
+				"FurCourierBag,1,-1,1,740,100",
+				"ImprovisedBag,1,-1,1,740,100",
+				"FurImprovisedBag,1,-1,1,740,100"
+			]
+        },
+		{
+            "CategoryName": "Обувь",
+            "Products": [
+				"thleticShoes_Blue,1,-1,1,740,100",
+				"AthleticShoes_Black,1,-1,1,740,100",
+				"AthleticShoes_Brown,1,-1,1,740,100",
+				"AthleticShoes_Green,1,-1,1,740,100",
+				"AthleticShoes_Grey,1,-1,1,740,100",
+				"HikingBoots_Brown,1,-1,1,740,100",
+				"HikingBoots_Black,1,-1,1,740,100",
+				"HikingBootsLow_Black,1,-1,1,740,100",
+				"HikingBootsLow_Blue,1,-1,1,740,100",
+				"HikingBootsLow_Beige,1,-1,1,740,100",
+				"HikingBootsLow_Grey,1,-1,1,740,100",
+				"Wellies_Black,1,-1,1,740,100",
+				"Wellies_Brown,1,-1,1,740,100",
+				"Wellies_Green,1,-1,1,740,100",
+				"Wellies_Grey,1,-1,1,740,100",
+				"WorkingBoots_Grey,1,-1,1,740,100",
+				"WorkingBoots_Brown,1,-1,1,740,100",
+				"WorkingBoots_Green,1,-1,1,740,100",
+				"WorkingBoots_Yellow,1,-1,1,740,100",
+				"WorkingBoots_Beige,1,-1,1,740,100",
+				"DressShoes_Beige,1,-1,1,740,100",
+				"DressShoes_Black,1,-1,1,740,100",
+				"DressShoes_Brown,1,-1,1,740,100",
+				"DressShoes_Sunburst,1,-1,1,740,100",
+				"DressShoes_White,1,-1,1,740,100",
+				"JoggingShoes_Black,1,-1,1,740,100",
+				"JoggingShoes_Blue,1,-1,1,740,100",
+				"JoggingShoes_Red,1,-1,1,740,100",
+				"JoggingShoes_Violet,1,-1,1,740,100",
+				"JoggingShoes_White,1,-1,1,740,100",
+				"Sneakers_Black,1,-1,1,740,100",
+				"Sneakers_Gray,1,-1,1,740,100",
+				"Sneakers_Green,1,-1,1,740,100",
+				"Sneakers_Red,1,-1,1,740,100",
+				"Ballerinas_Blue,1,-1,1,740,100",
+				"Ballerinas_Red,1,-1,1,740,100",
+				"Ballerinas_White,1,-1,1,740,100",
+				"Ballerinas_Yellow,1,-1,1,740,100"	
+			]
+        },
+		{
+            "CategoryName": "Самооборона",
+            "Products": [
+			 "CombatKnife,1,-1,1,740,100",
+			 "NyloneKnifeSheath,1,-1,1,500,70",
+			 "Colt1911,1,-1,1,350,35",
+			 "CZ75,1,-1,1,350,35",
+			 "Glock19,1,-1,1,350,35",
+			 "Makarovij70,1,-1,1,350,35"
+			]
+        },
+		{
+            "CategoryName": "Патроны и магазины для пистолета",
+            "Products": [
+			 "AmmoBox_45ACP_25rnd,1,-1,1,740,100",
+			 "AmmoBox_9x19_25rnd,1,-1,1,500,70",
+			 "AmmoBox_380_35rnd,1,-1,1,350,35",
+			 "Mag_Glock_15Rnd,1,-1,1,350,35",
+			 "Mag_1911_7Rnd,1,-1,1,350,35",
+			 "Mag_CZ75_15Rnd,1,-1,1,350,35",
+			 "Mag_IJ70_8Rnd,1,-1,1,350,35"
+			]
+        },
+		{
+            "CategoryName": "Сбыт овощей",
+            "Products": [
+			 "Tomato,1,-1,1,-1,100",
+			 "GreenBellPepper,1,-1,1,-1,70",
+			 "Zucchini,1,-1,1,-1,35",
+			 "Pumpkin,1,-1,1,-1,35",
+			 "PotatoSeed,1,-1,1,-1,35"
+			]
+        },
+		{
+            "CategoryName": "Еда МЧС",
+            "Products": [
+			 "BoxCerealCrunchin,1,-1,1,740,100",
+			 "WaterBottle,1,-1,1,500,70",
+			 "PorkCan,1,-1,1,350,30",
+			 "Lunchmeat,1,-1,1,350,35",
+			 "Crackers,1,-1,500,250,-1",
+			 "ZagorkyPeanuts,1,-1,1,350,35",
+			 "ZagorkyChocolate,1,-1,1,350,35",
+			 "Zagorky,1,-1,1,450,220",
+			 "Apple,1,-1,1,265,75",
+			 "PowderedMilk,1,-1,1,180,60",
+			 "Marmalade,1,-1,1,440,170",
+			 "BakedBeansCan,1,-1,500,250,-1",
+			 "PeachesCan,1,-1,500,250,-1",
+			 "TacticalBaconCan,1,-1,1,550,135",
+			 "SpaghettiCan,1,-1,500,250,-1",
+			 "SardinesCan,1,-1,1,275,98",
+			 "TunaCan,1,-1,500,250,-1",
+			 "Pear,1,-1,1,750,350",
+			 "Potato,1,-1,1,260,95",
+			 "Plum,1,-1,1,270,90",
+			 "ZagorkyPeanuts,1,-1,1,350,50",
+			 "Canteen,1,-1,1,350,50",
+			 "SodaCan_Kvass,1,-1,1,100,50",
+			 "Pajka,1,-1,1,350,50"
+			]
+        },	
+		{
+            "CategoryName": "Медицина МЧС",
+            "Products": [
+			 "BandageDressing,1,-1,1,740,100",
+			 "DisinfectantSpray,1,-1,1,500,70",
+			 "PurificationTablets,1,-1,1,350,30",
+			 "CharcoalTablets,1,-1,1,350,35",
+			 "PainkillerTablets,1,-1,1,350,35",
+			 "VitaminBottle,1,-1,1,350,35",
+			 "TetracyclineAntibiotics,1,-1,1,350,35",
+			 "SalineBag,1,-1,1,450,220",
+			 "StartKitIV,1,-1,1,265,75",
+			 "SalineBagIV,1,-1,1,180,60",
+			 "BloodBagEmpty,1,-1,1,440,170",
+			 "BloodBagFull,1,-1,1,380,110",
+			 "BloodBagIV,1,-1,1,365,100",
+			 "BloodTestKit,1,-1,1,550,135",
+			 "Thermometer,1,-1,1,340,95",
+			 "Syringe,1,-1,1,275,98",
+			 "IodineTincture,1,-1,1,275,98",
+			 "Epinephrine,1,-1,1,750,350",
+			 "Morphine,1,-1,1,260,95"
+			]
+        },
+		{
+            "CategoryName": "Разные предметы",
+            "Products": [
+			 "Compass,1,-1,1,740,100",
+			 "OrienteeringCompass,1,-1,1,500,70",
+			 "PersonalRadio,1,-1,1,350,30",
+			 "Megaphone,1,-1,1,350,35",
+			 "Paper,1,-1,1,350,35",
+			 "DuctTape,1,-1,1,350,35",
+			 "Rag,1,-1,1,350,35",
+			 "Battery9V,1,-1,1,450,220",
+			 "Chemlight_Yellow,1,-1,1,265,75",
+			 "Netting,1,-1,1,180,60",
+			 "Binoculars,1,-1,1,440,170",
+			 "PortableGasLamp,1,-1,1,380,110",
+			 "CanOpener,1,-1,1,365,100",
+			 "Heatpack,1,-1,1,550,135",
+			 "Lockpick,1,-1,1,340,95",
+			 "Headtorch_Black,1,-1,1,350,35",
+			 "Headtorch_Grey,1,-1,1,500,70"
+			 
+			]
+        },
+		{
+            "CategoryName": "Инструменты",
+            "Products": [
+			 "Crowbar,1,-1,1,740,100",
+			 "LugWrench,1,-1,1,500,70",
+			 "Rope,1,-1,1,350,30",
+			 "SledgeHammer,1,-1,1,350,35",
+			 "Screwdriver,1,-1,1,350,35",
+			 "Hacksaw,1,-1,1,350,35",
+			 "Hammer,1,-1,1,350,35",
+			 "Shovel,1,-1,1,740,100",
+			 "Pickaxe,1,-1,1,500,70",
+			 "Hatchet,1,-1,1,350,30",
+			 "WoodAxe,1,-1,1,350,35",
+			 "Pliers,1,-1,1,350,35",
+			 "Wrench,1,-1,1,350,35",
+			 "BarbedWir,1,-1,1,350,35",
+			 "MetalWire,1,-1,1,350,35",
+			 "CombinationLock,1,-1,1,350,35",
+			 "BatteryCharger,1,-1,1,350,35",
+			 "CanisterGasoline,1,-1,1,350,35",
+			 "SparkPlug,1,-1,1,350,35",
+			 "TireRepairKit,1,-1,1,350,35",
+			 "TruckRadiator,1,-1,1,350,35",
+			 "TruckBattery,1,-1,1,350,35",
+			 "CarBattery,1,-1,1,350,35",
+			 "CarRadiator,1,-1,1,740,100"
+			]
+        },
+		{
+            "CategoryName": "МЧС Одежда",
+            "Products": [
+			 "MG_Head_Beret_MHS,1,-1,1,740,100",
+			 "MG_Shirt_MHS,1,-1,1,500,70",
+			 "MG_Shirt_MHS_serj,1,-1,1,350,30",
+			 "MG_Shirt_MHS_Mlleyt,1,-1,1,350,35",
+			 "MG_Shirt_MHS_Leyt,1,-1,1,350,35",
+			 "MG_Shirt_MHS_Stleyt,1,-1,1,350,35",
+			 "MG_Shirt_MHS_Capt,1,-1,1,350,35",
+			 "MG_Shirt_MHS_Mayor,1,-1,1,740,100",
+			 "MG_Shirt_MHS_Podpol,1,-1,1,500,70",
+			 "MG_Shirt_MHS_Polk,1,-1,1,350,30",
+			 "MG_Pants_MHS,1,-1,1,350,35",
+			 "CombatBoots_Grey,1,-1,1,350,35"
+			]
+        },
+		{
+            "CategoryName": "Специальная экипировка",
+            "Products": [
+			 "NBCPantsYellow,1,-1,1,740,100",
+			 "NBCBootsYellow,1,-1,1,500,70",
+			 "NBCHoodYellow,1,-1,1,350,30",
+			 "NBCJacketYellow,1,-1,1,350,35",
+			 "GasMask,1,-1,1,350,35",
+			 "GP5GasMask,1,-1,1,350,35",
+			 "AirborneMask,1,-1,1,350,35",
+			 "GasMask_Filter,1,-1,1,450,220"
+			]
+        },
+        {
+            "CategoryName": "Питание",
+            "Products": [
+				"Canteen,1,-1,1,740,100",
+				"WaterBottle,1,-1,1,500,70",
+				"BoxCerealCrunchin,1,-1,1,265,75",
+				"PowderedMilk,1,-1,1,180,60",
+				"Marmalade,1,-1,1,440,170",
+				"BakedBeansCan,1,-1,500,250,-1",
+				"PeachesCan,1,-1,500,250,-1",
+				"SpaghettiCan,1,-1,500,250,-1",
+				"SardinesCan,1,-1,1,275,98",
+				"TunaCan,1,-1,500,250,-1",
+				"Honey,1,-1,1,750,350",
+				"PorkCan,1,-1,1,350,50",
+				"Lunchmeat,1,-1,1,350,50",
+				"UnknownFoodCan,1,-1,1,100,50",
+				"Pajka,1,-1,1,350,50",
+				"Pate,1,-1,1,350,50",
+				"BrisketSpread,1,-1,1,380,60",
+				"Crackers,1,-1,500,250,-1",
+				"SaltySticks,1,-1,1,110,35",
+				"Zagorky,1,-1,1,150,50",
+				"Apple,1,-1,1,200,40",
+				"Tomato,1,-1,1,200,40",
+				"GreenBellPepper,1,-1,1,200,40",
+				"Zucchini,1,-1,1,200,40",
+				"Pumpkin,1,-1,1,200,40",
+				"SlicedPumpkin,1,-1,1,250,40",
+				"Plum,1,-1,1,200,40",
+				"Pear,1,-1,1,200,40",
+				"PotatoSeed,1,-1,1,200,40"
+			]
+        },
+        {
+            "CategoryName": "Мед. комплекты",
+            "Products": [
+				"BandageDressing,1,-1,500,250,-1",
+                "CharcoalTablets,1,-1,500,250,-1",
+                "DisinfectantAlcohol,1,-1,500,250,-1",
+                "VitaminBottle,1,-1,500,250,-1",
+                "TetracyclineAntibiotics,1,-1,500,250,-1",
+                "PainkillerTablets,1,-1,500,250,-1",
+                "Heatpack,1,-1,500,250,-1",
+                "StartKitIV,1,-1,500,250,-1",
+                "SalineBagIV,1,-1,500,250,-1",
+                "BloodTestKit,1,-1,500,250,-1",
+                "SalineBag,1,-1,500,250,-1",
+                "BloodBagEmpty,1,-1,500,250,-1",
+                "IodineTincture,1,-1,500,250,-1",
+                "Epinephrine,1,-1,500,-1,-1000",
+                "Morphine,1,-1,500,-1,-1000"
+			]
+		},
+		{
+            "CategoryName": "Оружие повстанца",
+            "Products": [
+                "IMP_Vector,1,-1,1,30000,100",
+                "IMP_AEK,1,-1,1,40000,100",
+                "AK74,1,-1,1,45000,100",
+                "AKM,1,-1,1,60000,5000",
+                "IMP_VR80,1,-1,1,25000,3100"
+			]
+		},
+		{
+            "CategoryName": "Обвесы повстанца",
+            "Products": [
+				"IMP_Supp_Vector_Black,1,-1,1,30000,500",
+                "IMP_Optic_OKP7,1,-1,1,12000,500",
+                "IMP_RailAK,1,-1,1,1500,-1",
+                "IMP_Optic_OKP7,1,-1,1,8000,500",
+                "IMP_VerticalGrip_Black,1,-1,1,1500,500",
+                "IMP_Bttstk_AK_Magpul,1,-1,1,1500,500",
+                "IMP_Hndgrd_AK_Polymer_Black,1,-1,1,300,10",
+                "UniversalLight,1,-1,1,300,30",
+                "PUScopeOptic,1,-1,1,8000,150",
+                "HuntingOptic,1,-1,1,20000,5500",
+                "PSO1Optic,1,-1,1,8000,300",
+                "ReflexOptic,1,-1,1,8000,150"
+			]
+        },
+		{
+            "CategoryName": "Магазы",
+            "Products": [
+                "IMP_Mag_Vector_35Rnd,1,-1,1,1800,50",
+                "Mag_AK74_30Rnd_Black,1,-1,1,2300,50",
+                "IMP_Mag_VR80_5Rnd,1,-1,1,2300,50",
+                "IMP_Mag_VR80_Clip_20Rnd,1,-1,1,5300,50",
+                "Mag_AKM_30Rnd,1,-1,1,3300,50"
+			]
+        },
+		{
+            "CategoryName": "Патроны",
+            "Products": [
+			    "Ammo_12gaPellets,1,-1,60,750,30",
+                "Ammo_545x39,1,-1,20,1000,20",
+                "Ammo_762x39,1,-1,20,1000,40",
+                "Ammo_556x45,1,-1,20,1000,100",
+                "Ammo_9x19,1,-1,20,100,-1",
+                "Ammo_9x39,1,-1,20,250,-1",
+                "Ammo_45ACP,1,-1,20,350,-1",
+                "IMP_Mag_Vector_35Rnd,1,-1,1,1800,50",
+                "Mag_AK74_30Rnd_Black,1,-1,1,2300,50",
+                "IMP_Mag_VR80_5Rnd,1,-1,1,2300,50",
+                "IMP_Mag_VR80_Clip_20Rnd,1,-1,1,5300,50",
+                "Mag_AKM_30Rnd,1,-1,1,3300,50"
+			]
+		},
+		{
+            "CategoryName": "Одежда повстанца",
+            "Products": [
+			   "IMP_UNLVest_UnloadingVest_Tan,1,-1,1,3300,50",
+			   "IMP_AUVest_6B5_Khaki,1,-1,1,3300,50",
+			   "IMP_UNLVest_6h112_Green,1,-1,1,3300,50",
+			   "IMP_Vest_6B2_Camo,1,-1,1,3300,50",
+			   "IMP_AUVest_6B3_Green,1,-1,1,3300,50",
+			   "IMP_AUVest_6B5_Flora,1,-1,1,3300,50",
+			   "TacticalGloves_Black,1,-1,1,3300,50",
+			   "MilitaryBoots_Black,1,-1,1,3300,50",
+			   "IMP_Keffiyeh_S_11,1,-1,1,3300,50",
+			   "MilitaryBelt,1,-1,1,3300,50",
+			   "GorkaEJacket_Summer,1,-1,1,3300,50",
+			   "IMP_Belt_LegHolster_MARPAT,1,-1,1,3300,50"
+			   
+			]
+        },
+		{
+            "CategoryName": "Драгдиллeр",
+            "Products": [
+			   "MG_Joint,1,-1,1,3300,50",
+			   "vokin_briquette_cannabis,1,-1,1,3300,50",
+			   "vokin_MarryBaggie2,1,-1,1,3300,50",
+			   "vokin_Cocainym2,1,-1,1,3300,50",
+			   "vokin_Cocainym1,1,-1,1,3300,50",
+			   "vokin_CannabisPlantSheet,1,-1,1,3300,50",
+			   "vokin_CocaineSmall,1,-1,1,3300,50",
+			   "vokin_MarryBaggie1,1,-1,1,3300,50"
+			]
+        },
+		{
+            "CategoryName": "Драгдиллeр",
+            "Products": [
+			   "MG_Joint,1,-1,1,3300,50",
+			   "vokin_briquette_cannabis,1,-1,1,3300,50",
+			   "vokin_MarryBaggie2,1,-1,1,3300,50",
+			   "vokin_Cocainym2,1,-1,1,3300,50",
+			   "vokin_Cocainym1,1,-1,1,3300,50",
+			   "vokin_CannabisPlantSheet,1,-1,1,3300,50",
+			   "vokin_CocaineSmall,1,-1,1,3300,50",
+			   "vokin_MarryBaggie1,1,-1,1,3300,50"
+			   
+			]
+        },
+		{
+            "CategoryName": "ГСМ",
+            "Products": [
+			   "MG_GasolineCan,1,-1,1,3300,50",
+			   "MG_GasCan,1,-1,1,3300,50",
+			   "MG_GasCylinder,1,-1,1,3300,50",
+			   "MG_OilT,1,-1,1,3300,50",
+			   "Vokin_Gas_barl,1,-1,1,3300,50"
+			   
+			]
+        },
+		{
+            "CategoryName": "Ларёк",
+            "Products": [
+			   "MG_CigarBox,1,-1,1,3300,50",
+			   "MG_Cigar,1,-1,1,3300,50"
+			   
+			]
+        },
+		{
+            "CategoryName": "Кожевник",
+            "Products": [
+			   "WolfPelt,1,-1,1,3300,50",
+			   "SheepPelt,1,-1,1,3300,50",
+			   "FoxPelt,1,-1,1,3300,50",
+			   "WildboarPelt,1,-1,1,3300,50",
+			   "RabbitPelt,1,-1,1,3300,50",
+			   "CowPelt,1,-1,1,3300,50",
+			   "BearPelt,1,-1,1,3300,50",
+			   "DeerPelt,1,-1,1,3300,50",
+			   "PigPelt,1,-1,1,3300,50",
+			   "GoatPelt,1,-1,1,3300,50",
+			   "MouflonPelt,1,-1,1,3300,50"
+			   
+			]
+        }
+    ]
+}
